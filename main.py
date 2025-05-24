@@ -165,7 +165,8 @@ def main():
     feedgen.link(href=BASE_URL, rel="alternate")
     feedgen.language("en")
     feedgen.description("Paul Graham's Essays")
-    for article in articles():
+    for n, article in enumerate(articles()):
+        if n > 10: break # TODO: remove this once rss is working
         entry = feedgen.add_entry()
         entry.title(article.title.strip())
         entry.id(f"{BASE_URL}/{article.href}")
