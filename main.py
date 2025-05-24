@@ -70,6 +70,42 @@ class Article(BaseModel):
     date: datetime
 
 
+def clean_html_content(content: str, base_url: str) -> str:
+    """Clean and fix HTML content for RSS feed."""
+    soup = BeautifulSoup(content, "html.parser")
+
+    # Convert relative URLs to absolute
+    for tag in soup.find_all(["a", "img"]):
+        if tag.get("href"):
+            if not tag["href"].startswith(("http://", "https://")):
+                tag["href"] = f"{base_url}{tag['href']}"
+        if tag.get("src"):
+            if not tag["src"].startswith(("http://", "https://")):
+                tag["src"] = f"{base_url}{tag['src']}"
+
+    # Remove problematic tags
+    for tag in soup.find_all(["script", "xmp"]):
+        tag.decompose()
+
+    # Fix common HTML issues
+    for tag in soup.find_all():
+        # Fix hef attribute to href
+        if tag.get("hef"):
+            tag["href"] = tag["hef"]
+            del tag["hef"]
+
+        # Remove non-standard tags
+        if tag.name in ["xa", "nota"]:
+            tag.unwrap()
+
+    # Clean up bad characters
+    text = str(soup)
+    text = text.replace("\x97", "—")  # Replace em dash
+    text = text.replace("\x96", "–")  # Replace en dash
+
+    return text
+
+
 def fetch_article(href) -> Article:
     if (path := (STASH / href)).exists():
         with open(path, "r") as f:
@@ -84,10 +120,14 @@ def fetch_article(href) -> Article:
     soup = BeautifulSoup(src, "html.parser")
     title = soup.select_one("title").text.strip()
     content, (month, year) = get_article_content(soup)
+
+    # Clean the content before creating Article
+    cleaned_content = clean_html_content(str(content), "https://paulgraham.com/")
+
     return Article(
         href=href,
         title=title,
-        content=str(content),
+        content=cleaned_content,
         date=datetime(year, MONTHS.index(month) + 1, 1, tzinfo=timezone.utc),
     )
 
@@ -122,14 +162,18 @@ def main():
     BASE_URL = "https://paulgraham.com/"
     feedgen.id(BASE_URL)
     feedgen.title("Paul Graham's Essays")
-    feedgen.link(href=BASE_URL, rel="self")
+    feedgen.link(href=BASE_URL, rel="alternate")
     feedgen.language("en")
     feedgen.description("Paul Graham's Essays")
     for article in articles():
         entry = feedgen.add_entry()
         entry.title(article.title.strip())
+        entry.id(f"{BASE_URL}/{article.href}")
+        entry.guid(f"{BASE_URL}/{article.href}")
         entry.content(article.content)
-        entry.description(article.content[:500])
+        # Clean description as well
+        clean_description = clean_html_content(article.content[:500], BASE_URL)
+        entry.description(clean_description)
         entry.pubDate(article.date)
         entry.link(href=f"{BASE_URL}/{article.href}")
     feedgen.rss_file(DOCS / "rss.xml", pretty=True)
