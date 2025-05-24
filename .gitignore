@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# babashka
+.lsp
+.ruff_cache/
+.clj-kondo/
+
+stash/

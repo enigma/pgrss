@@ -1,0 +1,9 @@
+{
+ :tasks
+ {
+    ruff
+    {:task (do
+             (shell "uv run ruff format")
+             (shell "uv run ruff check --fix"))}
+ }
+}
