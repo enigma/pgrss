@@ -9,6 +9,7 @@ from feedgen.feed import FeedGenerator
 
 BASE = pathlib.Path(__file__).parent
 DATA = BASE / "data"
+DOCS = BASE / "docs"
 STASH = BASE / "stash"
 
 MONTHS = [
@@ -131,7 +132,7 @@ def main():
         entry.description(article.content[:500])
         entry.pubDate(article.date)
         entry.link(href=f"{BASE_URL}/{article.href}")
-    feedgen.rss_file(DATA / "rss.xml", pretty=True)
+    feedgen.rss_file(DOCS / "rss.xml", pretty=True)
     print("done.")
 
 
