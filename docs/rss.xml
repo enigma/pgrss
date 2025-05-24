@@ -2,22 +2,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Paul Graham's Essays</title>
-    <link>https://paulgraham.com/</link>
+    <link>https://enigma.github.io/pgrss/rss.xml</link>
     <description>Paul Graham's Essays</description>
+    <atom:link href="https://enigma.github.io/pgrss/rss.xml" rel="self" type="application/rss+xml"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 May 2025 23:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 23:58:09 +0000</lastBuildDate>
     <item>
       <title>Superlinear Returns</title>
       <link>https://paulgraham.com//superlinear.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;October 2023&lt;br/&gt;&lt;br/&gt;One of the most important things I didn't understand about the world
-when I was a child is the degree to which the returns for performance
-are superlinear.&lt;br/&gt;&lt;br/&gt;Teachers and coaches implicitly told us the returns were linear.
-"You get out," I heard a thousand times, "what you put in." They
-meant well, but this is rarely true. If your product is only half
-as good as your competitor's, you don't get half as many customers.
-You get no customer&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;October 2023&lt;br/&gt;&lt;br/&gt;One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear.&lt;br/&gt;&lt;br/&gt;Teachers and coaches implicitly told us the returns were linear. "You get out," I heard a thousand times, "what you put in." They meant well, but this is rarely true. If your product is only half as good as your competitor's, you don't get half as many customers. You get no customer&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;October 2023&lt;br/&gt;&lt;br/&gt;One of the most important things I didn't understand about the world
 when I was a child is the degree to which the returns for performance
 are superlinear.&lt;br/&gt;&lt;br/&gt;Teachers and coaches implicitly told us the returns were linear.
@@ -393,11 +388,7 @@ of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
     <item>
       <title>The Best Essay</title>
       <link>https://paulgraham.com//best.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;Despite its title this isn't meant to be the best essay. My goal
-here is to figure out what the best essay would be like.&lt;br/&gt;&lt;br/&gt;It would be well-written, but you can write well about any topic.
-What made it special would be what it was about.&lt;br/&gt;&lt;br/&gt;Obviously some topics would be better than others. It probably
-wouldn't be about this year's lipstick colors. But it wouldn't be
-vaporous talk about elevated themes either. A good essay has to be&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;Despite its title this isn't meant to be the best essay. My goal here is to figure out what the best essay would be like.&lt;br/&gt;&lt;br/&gt;It would be well-written, but you can write well about any topic. What made it special would be what it was about.&lt;br/&gt;&lt;br/&gt;Obviously some topics would be better than others. It probably wouldn't be about this year's lipstick colors. But it wouldn't be vaporous talk about elevated themes either. A good essay has to be&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;Despite its title this isn't meant to be the best essay. My goal
 here is to figure out what the best essay would be like.&lt;br/&gt;&lt;br/&gt;It would be well-written, but you can write well about any topic.
 What made it special would be what it was about.&lt;br/&gt;&lt;br/&gt;Obviously some topics would be better than others. It probably
@@ -760,13 +751,7 @@ this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
     <item>
       <title>How to Start Google</title>
       <link>https://paulgraham.com//google.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now
-if they might want to start a startup later. Lots of schools think
-they should tell students something about startups. This is what I
-think they should tell them.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Most of you probably think that when you're released into the
-so-called real world you'll eventually have to get some kind of
-job. That's not true, and today I'm going to talk about a trick you
-can use t&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now if they might want to start a startup later. Lots of schools think they should tell students something about startups. This is what I think they should tell them.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Most of you probably think that when you're released into the so-called real world you'll eventually have to get some kind of job. That's not true, and today I'm going to talk about a trick you can use t&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now
 if they might want to start a startup later. Lots of schools think
 they should tell students something about startups. This is what I
@@ -991,13 +976,7 @@ students.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font color="888888"&gt;
     <item>
       <title>The Reddits</title>
       <link>https://paulgraham.com//reddits.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they
-were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the
-undergrad computer club) about how to start a startup. Everyone
-else in the audience was probably local, but Steve and Alexis came
-up on the train from the University of Virginia, where they were
-seniors. Since they'd come so far I agreed to meet them for coffee.
-They&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the undergrad computer club) about how to start a startup. Everyone else in the audience was probably local, but Steve and Alexis came up on the train from the University of Virginia, where they were seniors. Since they'd come so far I agreed to meet them for coffee. They&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they
 were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the
 undergrad computer club) about how to start a startup. Everyone
@@ -1092,12 +1071,7 @@ lower bound on the answer. Steve is not out of ideas yet.&lt;br/&gt;&lt;br/&gt;&
     <item>
       <title>The Right Kind of Stubborn</title>
       <link>https://paulgraham.com//persistence.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;July 2024&lt;br/&gt;&lt;br/&gt;Successful people tend to be persistent. New ideas often don't work
-at first, but they're not deterred. They keep trying and eventually
-find something that does.&lt;br/&gt;&lt;br/&gt;Mere obstinacy, on the other hand, is a recipe for failure. Obstinate
-people are so annoying. They won't listen. They beat their heads
-against a wall and get nowhere.&lt;br/&gt;&lt;br/&gt;But is there any real difference between these two cases? Are
-persistent and obstinate people actually b&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;July 2024&lt;br/&gt;&lt;br/&gt;Successful people tend to be persistent. New ideas often don't work at first, but they're not deterred. They keep trying and eventually find something that does.&lt;br/&gt;&lt;br/&gt;Mere obstinacy, on the other hand, is a recipe for failure. Obstinate people are so annoying. They won't listen. They beat their heads against a wall and get nowhere.&lt;br/&gt;&lt;br/&gt;But is there any real difference between these two cases? Are persistent and obstinate people actually b&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;July 2024&lt;br/&gt;&lt;br/&gt;Successful people tend to be persistent. New ideas often don't work
 at first, but they're not deterred. They keep trying and eventually
 find something that does.&lt;br/&gt;&lt;br/&gt;Mere obstinacy, on the other hand, is a recipe for failure. Obstinate
@@ -1269,12 +1243,7 @@ this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
     <item>
       <title>Founder Mode</title>
       <link>https://paulgraham.com//foundermode.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who
-was there will remember. Most founders I talked to afterward said
-it was the best they'd ever heard. Ron Conway, for the first time
-in his life, forgot to take notes. I'm not going to try to reproduce
-it here. Instead I want to talk about a question it raised.&lt;br/&gt;&lt;br/&gt;The theme of Brian's talk was that the conventional wisdom about
-how to run larger companies is mistaken. As &lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who was there will remember. Most founders I talked to afterward said it was the best they'd ever heard. Ron Conway, for the first time in his life, forgot to take notes. I'm not going to try to reproduce it here. Instead I want to talk about a question it raised.&lt;br/&gt;&lt;br/&gt;The theme of Brian's talk was that the conventional wisdom about how to run larger companies is mistaken. As &lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who
 was there will remember. Most founders I talked to afterward said
 it was the best they'd ever heard. Ron Conway, for the first time
@@ -1382,12 +1351,7 @@ for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</con
     <item>
       <title>When To Do What You Love</title>
       <link>https://paulgraham.com//when.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;There's some debate about whether it's a good idea to "follow your
-passion." In fact the question is impossible to answer with a simple
-yes or no. Sometimes you should and sometimes you shouldn't, but
-the border between should and shouldn't is very complicated. The
-only way to give a general answer is to trace it.&lt;br/&gt;&lt;br/&gt;When people talk about this question, there's always an implicit
-"instead of." All other things being equal, why wouldn't&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;There's some debate about whether it's a good idea to "follow your passion." In fact the question is impossible to answer with a simple yes or no. Sometimes you should and sometimes you shouldn't, but the border between should and shouldn't is very complicated. The only way to give a general answer is to trace it.&lt;br/&gt;&lt;br/&gt;When people talk about this question, there's always an implicit "instead of." All other things being equal, why wouldn't&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;There's some debate about whether it's a good idea to "follow your
 passion." In fact the question is impossible to answer with a simple
 yes or no. Sometimes you should and sometimes you shouldn't, but
@@ -1520,13 +1484,7 @@ this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
     <item>
       <title>Writes and Write-Nots</title>
       <link>https://paulgraham.com//writes.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;October 2024&lt;br/&gt;&lt;br/&gt;I'm usually reluctant to make predictions about technology, but I
-feel fairly confident about this one: in a couple decades there
-won't be many people who can write.&lt;br/&gt;&lt;br/&gt;One of the strangest things you learn if you're a writer is how
-many people have trouble writing. Doctors know how many people have
-a mole they're worried about; people who are good at setting up
-computers know how many people aren't; writers know how many people
-need help&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;October 2024&lt;br/&gt;&lt;br/&gt;I'm usually reluctant to make predictions about technology, but I feel fairly confident about this one: in a couple decades there won't be many people who can write.&lt;br/&gt;&lt;br/&gt;One of the strangest things you learn if you're a writer is how many people have trouble writing. Doctors know how many people have a mole they're worried about; people who are good at setting up computers know how many people aren't; writers know how many people need help&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;October 2024&lt;br/&gt;&lt;br/&gt;I'm usually reluctant to make predictions about technology, but I
 feel fairly confident about this one: in a couple decades there
 won't be many people who can write.&lt;br/&gt;&lt;br/&gt;One of the strangest things you learn if you're a writer is how
@@ -1577,16 +1535,7 @@ and Robert Morris for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
     <item>
       <title>The Origins of Wokeness</title>
       <link>https://paulgraham.com//woke.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;January 2025&lt;br/&gt;&lt;br/&gt;The word "prig" isn't very common now, but if you look up
-the definition, it will sound familiar. Google's isn't bad:
-&lt;blockquote&gt;
-  A self-righteously moralistic person who behaves as if
-  superior to others.
-&lt;/blockquote&gt;
-This sense of the word originated in the 18th century, and
-its age is an important clue: it shows that although
-wokeness is a comparatively recent phenomenon, it's an
-instance of a much older one.&lt;br/&gt;&lt;br/&gt;There's a certain &lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;January 2025&lt;br/&gt;&lt;br/&gt;The word "prig" isn't very common now, but if you look up the definition, it will sound familiar. Google's isn't bad: &lt;blockquote&gt; A self-righteously moralistic person who behaves as if superior to others. &lt;/blockquote&gt; This sense of the word originated in the 18th century, and its age is an important clue: it shows that although wokeness is a comparatively recent phenomenon, it's an instance of a much older one.&lt;br/&gt;&lt;br/&gt;There's a certain &lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;January 2025&lt;br/&gt;&lt;br/&gt;The word "prig" isn't very common now, but if you look up
 the definition, it will sound familiar. Google's isn't bad:
 &lt;blockquote&gt;
@@ -2235,12 +2184,7 @@ Urban for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt
     <item>
       <title>What to Do</title>
       <link>https://paulgraham.com//do.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2025&lt;br/&gt;&lt;br/&gt;What should one do? That may seem a strange question, but it's not
-meaningless or unanswerable. It's the sort of question kids ask
-before they learn not to ask big questions. I only came across it
-myself in the process of investigating something else. But once I
-did, I thought I should at least try to answer it.&lt;br/&gt;&lt;br/&gt;So what &lt;i&gt;should&lt;/i&gt; one do? One should help people, and take care of
-the world. Those two are obvious. But is there anything &lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;March 2025&lt;br/&gt;&lt;br/&gt;What should one do? That may seem a strange question, but it's not meaningless or unanswerable. It's the sort of question kids ask before they learn not to ask big questions. I only came across it myself in the process of investigating something else. But once I did, I thought I should at least try to answer it.&lt;br/&gt;&lt;br/&gt;So what &lt;i&gt;should&lt;/i&gt; one do? One should help people, and take care of the world. Those two are obvious. But is there anything &lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;March 2025&lt;br/&gt;&lt;br/&gt;What should one do? That may seem a strange question, but it's not
 meaningless or unanswerable. It's the sort of question kids ask
 before they learn not to ask big questions. I only came across it
@@ -2374,14 +2318,7 @@ Livingston, and Robert Morris for reading drafts of this.&lt;/font&gt;&lt;br/&gt
     <item>
       <title>Good Writing</title>
       <link>https://paulgraham.com//goodwriting.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;May 2025&lt;br/&gt;&lt;br/&gt;There are two senses in which writing can be good: it can&#13;
-sound good, and the ideas can be right. It can have nice,&#13;
-flowing sentences, and it can draw correct conclusions&#13;
-about important things. It might seem as if these two&#13;
-kinds of good would be unrelated, like the speed of a car&#13;
-and the color it's painted. And yet I don't think they&#13;
-are. I think writing that sounds good is more likely to&#13;
-be right.&lt;br/&gt;&lt;br/&gt;So here we have the most excitin&lt;/font&gt;</description>
+      <description>&lt;font face="verdana" size="2"&gt;May 2025&lt;br/&gt;&lt;br/&gt;There are two senses in which writing can be good: it can sound good, and the ideas can be right. It can have nice, flowing sentences, and it can draw correct conclusions about important things. It might seem as if these two kinds of good would be unrelated, like the speed of a car and the color it's painted. And yet I don't think they are. I think writing that sounds good is more likely to be right.&lt;br/&gt;&lt;br/&gt;So here we have the most excitin&lt;/font&gt;</description>
       <content:encoded>&lt;font face="verdana" size="2"&gt;May 2025&lt;br/&gt;&lt;br/&gt;There are two senses in which writing can be good: it can&#13;
 sound good, and the ideas can be right. It can have nice,&#13;
 flowing sentences, and it can draw correct conclusions&#13;
