@@ -46,7 +46,6 @@ def has_date(font):
             if res := has_date(c):
                 return res
         if not isinstance(c, str):
-            # print(">>>", type(c), str(c)[:200].replace('\n', ' '))
             continue
         match = re.match(r"\s*(\w+)\s(\d{4}).*$", c.strip())
         if c and bool(match):
@@ -77,6 +76,9 @@ def clean_html_content(content: str, base_url: str) -> str:
     # Convert relative URLs to absolute
     for tag in soup.find_all(["a", "img"]):
         if tag.get("href"):
+            if tag["href"].startswith("#"):
+                # Keep anchor links as is
+                continue
             if not tag["href"].startswith(("http://", "https://")):
                 tag["href"] = f"{base_url}{tag['href']}"
         if tag.get("src"):
@@ -102,6 +104,9 @@ def clean_html_content(content: str, base_url: str) -> str:
     text = str(soup)
     text = text.replace("\x97", "—")  # Replace em dash
     text = text.replace("\x96", "–")  # Replace en dash
+    text = text.replace("\r", "")  # Remove carriage returns
+    text = text.replace("\n", " ")  # Replace newlines with spaces
+    text = re.sub(r"\s+", " ", text)  # Normalize whitespace
 
     return text
 
@@ -165,8 +170,17 @@ def main():
     feedgen.link(href=BASE_URL, rel="alternate")
     feedgen.language("en")
     feedgen.description("Paul Graham's Essays")
+
+    # Add atom:link with rel="self"
+    feedgen.link(
+        href="https://enigma.github.io/pgrss/rss.xml",
+        rel="self",
+        type="application/rss+xml",
+    )
+
     for n, article in enumerate(articles()):
-        if n > 10: break # TODO: remove this once rss is working
+        if n > 10:
+            break  # TODO: remove this once rss is working
         entry = feedgen.add_entry()
         entry.title(article.title.strip())
         entry.id(f"{BASE_URL}/{article.href}")
