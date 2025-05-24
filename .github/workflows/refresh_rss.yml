@@ -25,7 +25,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/* uv.lock || true
+          git add docs/* data/* uv.lock || true
           if [[ -n $(git status --porcelain) ]]; then
             git commit -m "auto-update $(date -u +'%F %T')"
             git push
