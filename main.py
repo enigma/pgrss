@@ -87,29 +87,14 @@ def clean_html_content(content: str, base_url: str, article_href: str = None) ->
                 tag["src"] = f"{base_url}{tag['src']}"
 
     # Remove problematic tags
-    for tag in soup.find_all(["script", "xmp"]):
+    for tag in soup.find_all(["script", "xmp", "nobr"]):
         tag.decompose()
 
-    # Fix common HTML issues
-    for tag in soup.find_all():
-        # Fix hef attribute to href
-        if tag.get("hef"):
-            tag["href"] = tag["hef"]
-            del tag["hef"]
+    # Remove non-standard tags
+    for tag in soup.find_all(["xa", "nota", "nobr"]):
+        tag.unwrap()
 
-        # Remove non-standard tags
-        if tag.name in ["xa", "nota"]:
-            tag.unwrap()
-
-    # Clean up bad characters
-    text = str(soup)
-    text = text.replace("\x97", "—")  # Replace em dash
-    text = text.replace("\x96", "–")  # Replace en dash
-    text = text.replace("\r", "")  # Remove carriage returns
-    text = text.replace("\n", " ")  # Replace newlines with spaces
-    text = re.sub(r"\s+", " ", text)  # Normalize whitespace
-
-    return text
+    return str(soup)
 
 
 def fetch_article(href) -> Article:
