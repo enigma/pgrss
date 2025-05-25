@@ -165,7 +165,9 @@ def main():
         type="application/rss+xml",
     )
 
+    build_date = None
     for n, article in enumerate(articles()):
+        build_date = max(build_date or article.date, article.date)
         if n > 30:
             break
         entry = feedgen.add_entry()
