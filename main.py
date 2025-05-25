@@ -187,6 +187,8 @@ def main():
         entry.pubDate(article.date)
         entry.link(href=f"{BASE_URL}/{article.href}")
 
+    feedgen.lastBuildDate(build_date)
+
     feedgen.rss_file(DOCS / "rss.xml", pretty=True)
     print("done.")
 
