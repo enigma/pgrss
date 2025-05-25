@@ -166,8 +166,6 @@ def main():
     )
 
     for n, article in enumerate(articles()):
-        if n % 17:
-            continue
         entry = feedgen.add_entry()
         entry.title(article.title.strip())
         entry.id(f"{BASE_URL}/{article.href}")
