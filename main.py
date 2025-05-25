@@ -181,8 +181,6 @@ def main():
     )
 
     for n, article in enumerate(articles()):
-        if n > 10:
-            break  # TODO: remove this once rss is working
         entry = feedgen.add_entry()
         entry.title(article.title.strip())
         entry.id(f"{BASE_URL}/{article.href}")
