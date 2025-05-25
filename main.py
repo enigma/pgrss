@@ -69,9 +69,15 @@ class Article(BaseModel):
     date: datetime
 
 
-def clean_html_content(content: str, base_url: str, article_href: str = None) -> str:
+def clean_html_content(
+    content: str | Tag, base_url: str, article_href: str = None
+) -> str:
     """Clean and fix HTML content for RSS feed."""
-    soup = BeautifulSoup(content, "html.parser")
+    # If content is already a BeautifulSoup Tag, use it directly
+    if isinstance(content, Tag):
+        soup = BeautifulSoup(str(content), "html.parser")
+    else:
+        soup = BeautifulSoup(content, "html.parser")
 
     # Convert relative URLs to absolute
     for tag in soup.find_all(["a", "img"]):
@@ -101,37 +107,29 @@ def clean_html_content(content: str, base_url: str, article_href: str = None) ->
         if tag.name in ["xa", "nota", "ximg"]:
             tag.unwrap()
 
-    # Clean up bad characters
-    text = str(soup)
-    text = text.replace("\x97", "—")  # Replace em dash
-    text = text.replace("\x96", "–")  # Replace en dash
-    text = text.replace("\x92", "'")  # Replace smart quote
-    text = text.replace("\x93", '"')  # Replace smart quote
-    text = text.replace("\x94", '"')  # Replace smart quote
-    text = text.replace("\r", "")  # Remove carriage returns
-    text = text.replace("\n", " ")  # Replace newlines with spaces
-    text = re.sub(r"\s+", " ", text)  # Normalize whitespace
-
-    return text
+    # Use BeautifulSoup's encode/decode to handle HTML entities properly
+    return soup.encode("utf-8").decode("utf-8")
 
 
 def fetch_article(href) -> Article:
     if (path := (STASH / href)).exists():
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:  # Explicitly use UTF-8
             src = f.read()
     else:
         url = f"https://paulgraham.com/{href}"
         print(f"Fetching {url}")
         response = requests.get(url)
+        response.encoding = "utf-8"  # Ensure proper encoding
         src = response.text
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:  # Explicitly use UTF-8
             f.write(src)
+
     soup = BeautifulSoup(src, "html.parser")
     title = soup.select_one("title").text.strip()
     content, (month, year) = get_article_content(soup)
 
-    # Clean the content before creating Article, passing the article href
-    cleaned_content = clean_html_content(str(content), "https://paulgraham.com/", href)
+    # Instead of converting to string and back, work with the BeautifulSoup object
+    cleaned_content = clean_html_content(content, "https://paulgraham.com/", href)
 
     return Article(
         href=href,
@@ -143,11 +141,11 @@ def fetch_article(href) -> Article:
 
 def get_article(href) -> Article:
     if (path := (DATA / f"{href}.json")).exists():
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:  # Explicitly use UTF-8
             return Article.model_validate_json(f.read())
     else:
         article = fetch_article(href)
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:  # Explicitly use UTF-8
             f.write(article.model_dump_json())
         return article
 
