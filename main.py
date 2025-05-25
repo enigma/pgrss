@@ -69,7 +69,7 @@ class Article(BaseModel):
     date: datetime
 
 
-def clean_html_content(content: str, base_url: str) -> str:
+def clean_html_content(content: str, base_url: str, article_href: str = None) -> str:
     """Clean and fix HTML content for RSS feed."""
     soup = BeautifulSoup(content, "html.parser")
 
@@ -77,9 +77,10 @@ def clean_html_content(content: str, base_url: str) -> str:
     for tag in soup.find_all(["a", "img"]):
         if tag.get("href"):
             if tag["href"].startswith("#"):
-                # Keep anchor links as is
-                continue
-            if not tag["href"].startswith(("http://", "https://")):
+                # Convert anchor links to absolute URLs
+                if article_href:
+                    tag["href"] = f"{base_url}{article_href}{tag['href']}"
+            elif not tag["href"].startswith(("http://", "https://")):
                 tag["href"] = f"{base_url}{tag['href']}"
         if tag.get("src"):
             if not tag["src"].startswith(("http://", "https://")):
@@ -126,8 +127,8 @@ def fetch_article(href) -> Article:
     title = soup.select_one("title").text.strip()
     content, (month, year) = get_article_content(soup)
 
-    # Clean the content before creating Article
-    cleaned_content = clean_html_content(str(content), "https://paulgraham.com/")
+    # Clean the content before creating Article, passing the article href
+    cleaned_content = clean_html_content(str(content), "https://paulgraham.com/", href)
 
     return Article(
         href=href,
@@ -186,8 +187,10 @@ def main():
         entry.id(f"{BASE_URL}/{article.href}")
         entry.guid(f"{BASE_URL}/{article.href}")
         entry.content(article.content)
-        # Clean description as well
-        clean_description = clean_html_content(article.content[:500], BASE_URL)
+        # Clean description as well, passing the article href
+        clean_description = clean_html_content(
+            article.content[:500], BASE_URL, article.href
+        )
         entry.description(clean_description)
         entry.pubDate(article.date)
         entry.link(href=f"{BASE_URL}/{article.href}")
