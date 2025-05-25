@@ -69,15 +69,9 @@ class Article(BaseModel):
     date: datetime
 
 
-def clean_html_content(
-    content: str | Tag, base_url: str, article_href: str = None
-) -> str:
+def clean_html_content(content: str, base_url: str, article_href: str = None) -> str:
     """Clean and fix HTML content for RSS feed."""
-    # If content is already a BeautifulSoup Tag, use it directly
-    if isinstance(content, Tag):
-        soup = BeautifulSoup(str(content), "html.parser")
-    else:
-        soup = BeautifulSoup(content, "html.parser")
+    soup = BeautifulSoup(content, "html.parser")
 
     # Convert relative URLs to absolute
     for tag in soup.find_all(["a", "img"]):
@@ -93,7 +87,7 @@ def clean_html_content(
                 tag["src"] = f"{base_url}{tag['src']}"
 
     # Remove problematic tags
-    for tag in soup.find_all(["script", "xmp", "ximg", "ax"]):
+    for tag in soup.find_all(["script", "xmp"]):
         tag.decompose()
 
     # Fix common HTML issues
@@ -104,44 +98,37 @@ def clean_html_content(
             del tag["hef"]
 
         # Remove non-standard tags
-        if tag.name in ["xa", "nota", "ximg", "ax"]:
+        if tag.name in ["xa", "nota"]:
             tag.unwrap()
 
-    # Convert special characters to HTML entities
-    for tag in soup.find_all(text=True):
-        if isinstance(tag, str):
-            # Replace special characters with HTML entities
-            new_text = tag.replace("–", "&ndash;")
-            new_text = new_text.replace("—", "&mdash;")
-            new_text = new_text.replace("'", "&apos;")
-            new_text = new_text.replace('"', "&quot;")
-            new_text = new_text.replace("…", "&hellip;")
-            new_text = new_text.replace("?", "&mdash;")  # Replace em dash placeholder
-            tag.replace_with(new_text)
+    # Clean up bad characters
+    text = str(soup)
+    text = text.replace("\x97", "—")  # Replace em dash
+    text = text.replace("\x96", "–")  # Replace en dash
+    text = text.replace("\r", "")  # Remove carriage returns
+    text = text.replace("\n", " ")  # Replace newlines with spaces
+    text = re.sub(r"\s+", " ", text)  # Normalize whitespace
 
-    # Use BeautifulSoup's encode/decode to handle HTML entities properly
-    return soup.encode("ascii", "xmlcharrefreplace").decode("ascii")
+    return text
 
 
 def fetch_article(href) -> Article:
     if (path := (STASH / href)).exists():
-        with open(path, "r", encoding="utf-8") as f:
+        with open(path, "r") as f:
             src = f.read()
     else:
         url = f"https://paulgraham.com/{href}"
         print(f"Fetching {url}")
         response = requests.get(url)
-        response.encoding = "utf-8"
         src = response.text
-        with open(path, "w", encoding="utf-8") as f:
+        with open(path, "w") as f:
             f.write(src)
-
     soup = BeautifulSoup(src, "html.parser")
     title = soup.select_one("title").text.strip()
     content, (month, year) = get_article_content(soup)
 
-    # Clean the content before creating Article
-    cleaned_content = clean_html_content(content, "https://paulgraham.com/", href)
+    # Clean the content before creating Article, passing the article href
+    cleaned_content = clean_html_content(str(content), "https://paulgraham.com/", href)
 
     return Article(
         href=href,
@@ -153,11 +140,11 @@ def fetch_article(href) -> Article:
 
 def get_article(href) -> Article:
     if (path := (DATA / f"{href}.json")).exists():
-        with open(path, "r", encoding="utf-8") as f:  # Explicitly use UTF-8
+        with open(path, "r") as f:
             return Article.model_validate_json(f.read())
     else:
         article = fetch_article(href)
-        with open(path, "w", encoding="utf-8") as f:  # Explicitly use UTF-8
+        with open(path, "w") as f:
             f.write(article.model_dump_json())
         return article
 
