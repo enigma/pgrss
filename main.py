@@ -93,7 +93,7 @@ def clean_html_content(
                 tag["src"] = f"{base_url}{tag['src']}"
 
     # Remove problematic tags
-    for tag in soup.find_all(["script", "xmp", "ximg"]):
+    for tag in soup.find_all(["script", "xmp", "ximg", "ax"]):
         tag.decompose()
 
     # Fix common HTML issues
@@ -104,31 +104,43 @@ def clean_html_content(
             del tag["hef"]
 
         # Remove non-standard tags
-        if tag.name in ["xa", "nota", "ximg"]:
+        if tag.name in ["xa", "nota", "ximg", "ax"]:
             tag.unwrap()
 
+    # Convert special characters to HTML entities
+    for tag in soup.find_all(text=True):
+        if isinstance(tag, str):
+            # Replace special characters with HTML entities
+            new_text = tag.replace("–", "&ndash;")
+            new_text = new_text.replace("—", "&mdash;")
+            new_text = new_text.replace("'", "&apos;")
+            new_text = new_text.replace('"', "&quot;")
+            new_text = new_text.replace("…", "&hellip;")
+            new_text = new_text.replace("?", "&mdash;")  # Replace em dash placeholder
+            tag.replace_with(new_text)
+
     # Use BeautifulSoup's encode/decode to handle HTML entities properly
-    return soup.encode("utf-8").decode("utf-8")
+    return soup.encode("ascii", "xmlcharrefreplace").decode("ascii")
 
 
 def fetch_article(href) -> Article:
     if (path := (STASH / href)).exists():
-        with open(path, "r", encoding="utf-8") as f:  # Explicitly use UTF-8
+        with open(path, "r", encoding="utf-8") as f:
             src = f.read()
     else:
         url = f"https://paulgraham.com/{href}"
         print(f"Fetching {url}")
         response = requests.get(url)
-        response.encoding = "utf-8"  # Ensure proper encoding
+        response.encoding = "utf-8"
         src = response.text
-        with open(path, "w", encoding="utf-8") as f:  # Explicitly use UTF-8
+        with open(path, "w", encoding="utf-8") as f:
             f.write(src)
 
     soup = BeautifulSoup(src, "html.parser")
     title = soup.select_one("title").text.strip()
     content, (month, year) = get_article_content(soup)
 
-    # Instead of converting to string and back, work with the BeautifulSoup object
+    # Clean the content before creating Article
     cleaned_content = clean_html_content(content, "https://paulgraham.com/", href)
 
     return Article(
