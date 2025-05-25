@@ -166,6 +166,8 @@ def main():
     )
 
     for n, article in enumerate(articles()):
+        if n > 30:
+            break
         entry = feedgen.add_entry()
         entry.title(article.title.strip())
         entry.id(f"{BASE_URL}/{article.href}")
