@@ -166,15 +166,16 @@ def main():
         dir.mkdir(parents=True, exist_ok=True)
     feedgen = FeedGenerator()
     BASE_URL = "https://paulgraham.com/"
-    feedgen.id(BASE_URL)
+    FEED_URL = "https://enigma.github.io/pgrss/rss.xml"
+
+    feedgen.id(FEED_URL)  # Use FEED_URL as the feed ID
     feedgen.title("Paul Graham's Essays")
     feedgen.link(href=BASE_URL, rel="alternate")
     feedgen.language("en")
     feedgen.description("Paul Graham's Essays")
 
-    # Add atom:link with rel="self"
     feedgen.link(
-        href="https://enigma.github.io/pgrss/rss.xml",
+        href=FEED_URL,
         rel="self",
         type="application/rss+xml",
     )
@@ -186,7 +187,11 @@ def main():
         entry.title(article.title.strip())
         entry.id(f"{BASE_URL}/{article.href}")
         entry.guid(f"{BASE_URL}/{article.href}")
-        entry.content(article.content)
+
+        # Clean content and ensure all URLs are absolute
+        cleaned_content = clean_html_content(article.content, BASE_URL, article.href)
+        entry.content(cleaned_content)
+
         # Clean description as well, passing the article href
         clean_description = clean_html_content(
             article.content[:500], BASE_URL, article.href
@@ -194,6 +199,7 @@ def main():
         entry.description(clean_description)
         entry.pubDate(article.date)
         entry.link(href=f"{BASE_URL}/{article.href}")
+
     feedgen.rss_file(DOCS / "rss.xml", pretty=True)
     print("done.")
 
