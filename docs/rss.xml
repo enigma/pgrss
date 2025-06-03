@@ -8,66 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <item>
-      <title>Donate Unrestricted</title>
-      <link>https://paulgraham.com//donate.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2021&lt;br/&gt;&lt;br/&gt;The secret curse of the nonprofit world is restricted donations.
-If you haven't been involved with nonprofits, you may never have
-heard this phrase before. But if you have been, it probably made
-you wince.&lt;br/&gt;&lt;br/&gt;Restricted donations mean donations where the donor limits what can
-be done with the money. This is common with big donations, perhaps
-the default. And yet it's usually a bad idea. Usually the way the
-donor wants the money spent is not&lt;/font&gt;</description>
-      <content:encoded>&lt;font face="verdana" size="2"&gt;March 2021&lt;br/&gt;&lt;br/&gt;The secret curse of the nonprofit world is restricted donations.
-If you haven't been involved with nonprofits, you may never have
-heard this phrase before. But if you have been, it probably made
-you wince.&lt;br/&gt;&lt;br/&gt;Restricted donations mean donations where the donor limits what can
-be done with the money. This is common with big donations, perhaps
-the default. And yet it's usually a bad idea. Usually the way the
-donor wants the money spent is not the way the nonprofit would have
-chosen. Otherwise there would have been no need to restrict the
-donation. But who has a better understanding of where money needs
-to be spent, the nonprofit or the donor?&lt;br/&gt;&lt;br/&gt;If a nonprofit doesn't understand better than its donors where money
-needs to be spent, then it's incompetent and you shouldn't be
-donating to it at all.&lt;br/&gt;&lt;br/&gt;Which means a restricted donation is inherently suboptimal. It's
-either a donation to a bad nonprofit, or a donation for the wrong
-things.&lt;br/&gt;&lt;br/&gt;There are a couple exceptions to this principle. One is when the
-nonprofit is an umbrella organization. It's reasonable to make a
-restricted donation to a university, for example, because a university
-is only nominally a single nonprofit. Another exception is when the
-donor actually does know as much as the nonprofit about where money
-needs to be spent. The Gates Foundation, for example, has specific
-goals and often makes restricted donations to individual nonprofits
-to accomplish them. But unless you're a domain expert yourself or
-donating to an umbrella organization, your donation would do more
-good if it were unrestricted.&lt;br/&gt;&lt;br/&gt;If restricted donations do less good than unrestricted ones, why
-do donors so often make them? Partly because doing good isn't donors'
-only motive. They often have other motives as well — to make a mark,
-or to generate good publicity
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/donate.html#f1n"&gt;&lt;font color="#dddddd"&gt;1&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;,
-or to comply with regulations
-or corporate policies. Many donors may simply never have considered
-the distinction between restricted and unrestricted donations. They
-may believe that donating money for some specific purpose is just
-how donation works. And to be fair, nonprofits don't try very hard
-to discourage such illusions. They can't afford to. People running
-nonprofits are almost always anxious about money. They can't afford
-to talk back to big donors.&lt;br/&gt;&lt;br/&gt;You can't expect candor in a relationship so asymmetric. So I'll
-tell you what nonprofits wish they could tell you. If you want to
-donate to a nonprofit, donate unrestricted. If you trust them to
-spend your money, trust them to decide how.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;b&gt;Note&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;[&lt;a name="f1n"&gt;&lt;font color="#000000"&gt;1&lt;/font&gt;&lt;/a&gt;]
-Unfortunately restricted donations tend to generate more
-publicity than unrestricted ones. "X donates money to build a school
-in Africa" is not only more interesting than "X donates money to Y
-nonprofit to spend as Y chooses," but also focuses more attention
-on X.&lt;br/&gt;&lt;br/&gt;
-&lt;b&gt;Thanks&lt;/b&gt; to Chase Adam, Ingrid Bassett, Trevor Blackwell, and Edith
-Elliot for reading drafts of this.&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
-      <guid isPermaLink="false">https://paulgraham.com//donate.html</guid>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Write Simply</title>
       <link>https://paulgraham.com//simply.html</link>
@@ -5754,6 +5695,80 @@ and I fixed both simultaneously.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
 and Courtenay Pipkin for reading drafts of this.&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;&lt;/font&gt;</content:encoded>
       <guid isPermaLink="false">https://paulgraham.com//goodwriting.html</guid>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Shape of the Essay Field</title>
+      <link>https://paulgraham.com//field.html</link>
+      <description>&lt;font face="verdana" size="2"&gt;June 2025&lt;br/&gt;&lt;br/&gt;An essay has to tell people something they don't already know. But
+there are three different reasons people might not know something,
+and they yield three very different kinds of essays.&lt;br/&gt;&lt;br/&gt;One reason people won't know something is if it's not important to
+know. That doesn't mean it will make a bad essay. For example, you
+might write a good essay about a particular model of car. Readers
+would learn something from it. It would add to their pi&lt;/font&gt;</description>
+      <content:encoded>&lt;font face="verdana" size="2"&gt;June 2025&lt;br/&gt;&lt;br/&gt;An essay has to tell people something they don't already know. But
+there are three different reasons people might not know something,
+and they yield three very different kinds of essays.&lt;br/&gt;&lt;br/&gt;One reason people won't know something is if it's not important to
+know. That doesn't mean it will make a bad essay. For example, you
+might write a good essay about a particular model of car. Readers
+would learn something from it. It would add to their picture of the
+world. For a handful of readers it might even spur some kind of
+epiphany. But unless this is a very unusual car it's not critical
+for everyone to know about it. 
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/field.html#f1n"&gt;&lt;font color="#dddddd"&gt;1&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;If something isn't important to know, there's no answer to the
+question of why people don't know it. Not knowing random facts is
+the default. But if you're going to write about things that &lt;i&gt;are&lt;/i&gt;
+important to know, you have to ask why your readers don't already
+know them. Is it because they're smart but inexperienced, or because
+they're obtuse?&lt;br/&gt;&lt;br/&gt;So the three reasons readers might not already know what you tell
+them are (a) that it's not important, (b) that they're obtuse, 
+or (c) that they're inexperienced.&lt;br/&gt;&lt;br/&gt;The reason I did this breakdown was to get at the following fact,
+which might have seemed controversial if I'd led with it, but should
+be obvious now. If you're writing for smart people about important
+things, you're writing for the young.&lt;br/&gt;&lt;br/&gt;Or more precisely, that's where you'll have the most effect. Whatever
+you say should also be at least somewhat novel to you, however old
+you are. It's not an essay otherwise, because an essay is something
+you write to figure something out. But whatever you figure out will
+presumably be more of a surprise to younger readers than it is to
+you.&lt;br/&gt;&lt;br/&gt;There's a continuum of surprise. At one extreme, something you read
+can change your whole way of thinking. &lt;i&gt;The Selfish Gene&lt;/i&gt; did this
+to me. It was like suddenly seeing the other interpretation of an
+ambiguous image: you can treat genes rather than organisms as the
+protagonists, and evolution becomes easier to understand when you
+do. At the other extreme, writing merely puts into words something
+readers were already thinking — or thought they were.&lt;br/&gt;&lt;br/&gt;The impact of an essay is how much it changes readers' thinking
+multiplied by the importance of the topic. But it's hard to do well
+at both. It's hard to have big new ideas about important topics.
+So in practice there's a tradeoff: you can change readers' thinking
+a lot about moderately important things, or change it a little about
+very important ones. But with younger readers the tradeoff shifts.
+There's more room to change their thinking, so there's a bigger
+payoff for writing about important things.&lt;br/&gt;&lt;br/&gt;The tradeoff isn't a conscious one, at least not for me. It's more
+like a kind of gravitational field that writers work in. But every
+essayist works in it, whether they realize it or not.&lt;br/&gt;&lt;br/&gt;This seems obvious once you state it, but it took me a long time
+to understand. I knew I wanted to write for smart people about
+important topics. I noticed empirically that I seemed to be writing
+for the young. But it took me years to understand that the latter
+was an automatic consequence of the former. In fact I only really
+figured it out as I was writing this essay.&lt;br/&gt;&lt;br/&gt;Now that I know it, should I change anything? I don't think so. In
+fact seeing the shape of the field that writers work in has reminded
+me that I'm not optimizing for returns in it. I'm not trying to
+surprise readers of any particular age; I'm trying to surprise
+myself.&lt;br/&gt;&lt;br/&gt;The way I usually decide what to write about is by following
+curiosity. I notice something new and dig into it. It would probably
+be a mistake to change that. But seeing the shape of the essay field
+has set me thinking. What would surprise young readers? Which
+important things do people tend to learn late? Interesting question.
+I should think about that.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;b&gt;Note&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;[&lt;a name="f1n"&gt;&lt;font color="#000000"&gt;1&lt;/font&gt;&lt;/a&gt;]
+It's hard to write a really good essay about an unimportant
+topic, though, because a really good essayist will inevitably draw
+the topic into deeper waters. E. B. White could write an essay about
+how to boil potatoes that ended up being full of timeless wisdom.
+In which case, of course, it wouldn't really be about how to boil
+potatoes; that would just have been the starting point.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font color="888888"&gt;&lt;b&gt;Thanks&lt;/b&gt; to Jessica Livingston and Michael 
+Nielsen for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
+      <guid isPermaLink="false">https://paulgraham.com//field.html</guid>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
