@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://enigma.github.io/pgrss/rss-2013-09.xml</id>
+  <title>Paul Graham's Essays</title>
+  <updated>2013-09-01T00:00:00+00:00</updated>
+  <link href="https://paulgraham.com/" rel="alternate"/>
+  <link href="https://enigma.github.io/pgrss/rss-2013-09.xml" rel="self" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2004-11.xml" rel="first" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2010-07.xml" rel="previous" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2020-01.xml" rel="next" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss.xml" rel="last" type="application/rss+xml"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Paul Graham's Essays</subtitle>
+  <entry>
+    <id>https://paulgraham.com//fr.html</id>
+    <title>How to Raise Money</title>
+    <updated>2025-06-07T16:00:42.995030+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+September 2013&lt;br/&gt;&lt;br/&gt;Most startups that raise money do it more than once.  A typical
+tra&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//fr.html"/>
+    <published>2013-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//herd.html</id>
+    <title>Investor Herd Dynamics</title>
+    <updated>2025-06-07T16:00:42.992917+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+August 2013&lt;br/&gt;&lt;br/&gt;The biggest component in most investors' opinion of you is the
+opinion&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//herd.html"/>
+    <published>2013-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//convince.html</id>
+    <title>How to Convince Investors</title>
+    <updated>2025-06-07T16:00:42.987421+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+August 2013&lt;br/&gt;&lt;br/&gt;When people hurt themselves lifting heavy things, it's usually
+because&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//convince.html"/>
+    <published>2013-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ds.html</id>
+    <title>Do Things that Don't Scale</title>
+    <updated>2025-06-07T16:00:42.981748+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+July 2013&lt;br/&gt;&lt;br/&gt;One of the most common types of advice we give at Y Combinator is
+to do &lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ds.html"/>
+    <published>2013-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//invtrend.html</id>
+    <title>Startup Investing Trends</title>
+    <updated>2025-06-07T16:00:42.978251+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;June 2013&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This talk was written for an audience of investors.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Y Combinator has now funded 564 startups including the current
+batch, which has 53.  The total valuation of the 287 that have
+valuations (either by raising an equity round, getting acquired,
+or dying) is about $11.7 billion, and the 511 prior to the current
+batch have collectively raised about $1.7 billion.
+&lt;font color="#999999"&gt;[&amp;lt;a href="https://paulgraham.com/invtrend.html#f1n&lt;/font&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//invtrend.html"/>
+    <published>2013-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//startupideas.html</id>
+    <title>How to Get Startup Ideas</title>
+    <updated>2025-06-07T16:00:42.969936+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+November 2012&lt;br/&gt;&lt;br/&gt;The way to get startup ideas is not to try to think of startup
+ideas&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//startupideas.html"/>
+    <published>2012-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hw.html</id>
+    <title>The Hardware Renaissance</title>
+    <updated>2025-06-07T16:00:42.968355+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+October 2012&lt;br/&gt;&lt;br/&gt;One advantage of Y Combinator's early, broad focus is that we
+see tre&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hw.html"/>
+    <published>2012-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//growth.html</id>
+    <title>Startup = Growth</title>
+    <updated>2025-06-07T16:00:42.960876+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+September 2012&lt;br/&gt;&lt;br/&gt;A startup is a company designed to grow fast.  Being newly founded
+&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//growth.html"/>
+    <published>2012-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//swan.html</id>
+    <title>Black Swan Farming</title>
+    <updated>2025-06-07T16:00:42.957792+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+September 2012&lt;br/&gt;&lt;br/&gt;I've done several types of work over the years but I don't know
+ano&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//swan.html"/>
+    <published>2012-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//todo.html</id>
+    <title>The Top of My Todo List</title>
+    <updated>2025-06-07T16:00:42.957095+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2012&lt;br/&gt;&lt;br/&gt;A palliative care nurse called Bronnie Ware made a list of the
+biggest &lt;a href="http://bronnieware.com/regrets-of-the-dying/"&gt;regrets
+of the dying&lt;/a&gt;.  Her list seems plausible.  I could see
+myself — &lt;i&gt;can&lt;/i&gt; see myself — making at least 4 of these
+5 mistakes.&lt;br/&gt;&lt;br/&gt;If you had to compress them into a single piece of advice, it might
+be: don't be a cog.  The 5 regrets paint a portrait of post-industrial
+man, who shrinks himself into a shape &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//todo.html"/>
+    <published>2012-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//speak.html</id>
+    <title>Writing and Speaking</title>
+    <updated>2025-06-07T16:00:42.955389+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2012&lt;br/&gt;&lt;br/&gt;I'm not a very good speaker.  I say "um" a lot. Sometimes I have
+to pause when I lose my train of thought.  I wish I were a better
+speaker.  But I don't wish I were a better speaker like I wish I
+were a better writer.  What I really want is to have good ideas,
+and that's a much bigger part of being a good writer than being a
+good speaker.&lt;br/&gt;&lt;br/&gt;Having good ideas is most of writing well.  If you know what you're
+talking about, you can say it in&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//speak.html"/>
+    <published>2012-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ycstart.html</id>
+    <title>How Y Combinator Started</title>
+    <updated>2025-06-07T16:00:42.954325+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2012&lt;br/&gt;&lt;br/&gt;Y Combinator's 7th birthday was March 11.   As usual we were so
+busy we didn't notice till a few days after.  I don't think we've
+ever managed to remember our birthday on our birthday.
+&lt;p&gt;
+On March 11 2005, Jessica and I were walking home from dinner in
+Harvard Square.  Jessica was working at an investment bank at the
+time, but she didn't like it much, so she had interviewed for a job
+as director of marketing at a Boston VC fund.  The VC fund was&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ycstart.html"/>
+    <published>2012-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//property.html</id>
+    <title>Defining Property</title>
+    <updated>2025-06-07T16:00:42.952095+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2012&lt;br/&gt;&lt;br/&gt;As a child I read a book of stories about a famous judge in eighteenth
+century Japan called Ooka Tadasuke.  One of the cases he decided
+was brought by the owner of a food shop.  A poor student who could
+afford only rice was eating his rice while enjoying the delicious
+cooking smells coming from the food shop.  The owner wanted the
+student to pay for the smells he was enjoying.&lt;br/&gt;&lt;br/&gt;The student was
+stealing his smells!&lt;br/&gt;&lt;br/&gt;This story ofte&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//property.html"/>
+    <published>2012-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ambitious.html</id>
+    <title>Frighteningly Ambitious Startup Ideas</title>
+    <updated>2025-06-07T16:00:42.948071+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+March 2012&lt;br/&gt;&lt;br/&gt;One of the more surprising things I've noticed while working
+on Y Combi&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ambitious.html"/>
+    <published>2012-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//word.html</id>
+    <title>A Word to the Resourceful</title>
+    <updated>2025-06-07T16:00:42.946390+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+January 2012&lt;br/&gt;&lt;br/&gt;A year ago I noticed a pattern in the least successful startups
+we'd &lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//word.html"/>
+    <published>2012-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//schlep.html</id>
+    <title>Schlep Blindness</title>
+    <updated>2025-06-07T16:00:42.944898+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+January 2012&lt;br/&gt;&lt;br/&gt;There are great startup ideas lying around unexploited right under
+ou&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//schlep.html"/>
+    <published>2012-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//vw.html</id>
+    <title>Snapshot: Viaweb, June 1998</title>
+    <updated>2025-06-07T16:00:42.943083+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2012&lt;br/&gt;&lt;br/&gt;A few hours before the Yahoo acquisition was announced in June 1998
+I took a &lt;a href="http://ycombinator.com/viaweb"&gt;snapshot of Viaweb's
+site&lt;/a&gt;.  I thought it might be interesting to look at one day.&lt;br/&gt;&lt;br/&gt;The first thing one notices is is how tiny the pages are.  Screens
+were a lot smaller in 1998.  If I remember correctly, our frontpage
+used to just fit in the size window people typically used then.&lt;br/&gt;&lt;br/&gt;Browsers then (IE 6 was stil&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//vw.html"/>
+    <published>2012-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hubs.html</id>
+    <title>Why Startup Hubs Work</title>
+    <updated>2025-06-07T16:00:42.940000+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+October 2011&lt;br/&gt;&lt;br/&gt;If you look at a list of US cities sorted by population, the number
+o&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hubs.html"/>
+    <published>2011-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//patentpledge.html</id>
+    <title>The Patent Pledge</title>
+    <updated>2025-06-07T16:00:42.938904+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2011&lt;br/&gt;&lt;br/&gt;I realized recently that we may be able to solve part of the patent
+problem without waiting for the government.&lt;br/&gt;&lt;br/&gt;I've never been 100% sure whether patents help or hinder technological
+progress.  When I was a kid I thought they helped.  I thought they
+protected inventors from having their ideas stolen by big companies.
+Maybe that was truer in the past, when more things were physical.
+But regardless of whether patents are in general a good&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//patentpledge.html"/>
+    <published>2011-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//airbnb.html</id>
+    <title>Subject: Airbnb</title>
+    <updated>2025-06-07T16:00:42.935430+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2011&lt;br/&gt;&lt;br/&gt;Yesterday Fred Wilson published a remarkable &lt;a href="http://avc.com/2011/03/airbnb"&gt;post&lt;/a&gt; about missing
+&lt;a href="http://airbnb.com"&gt;Airbnb&lt;/a&gt;.   VCs miss good startups all the time, but it's extraordinarily
+rare for one to talk about it publicly till long afterward.  So
+that post is further evidence what a rare bird Fred is.  He's
+probably the nicest VC I know.&lt;br/&gt;&lt;br/&gt;Reading Fred's post made me go back and look at the emails I exchanged
+w&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//airbnb.html"/>
+    <published>2011-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//control.html</id>
+    <title>Founder Control</title>
+    <updated>2025-06-07T16:00:42.934014+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+December 2010&lt;br/&gt;&lt;br/&gt;Someone we funded is talking to VCs now, and asked me how common
+it &lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//control.html"/>
+    <published>2010-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//tablets.html</id>
+    <title>Tablets</title>
+    <updated>2025-06-07T16:00:42.933073+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2010&lt;br/&gt;&lt;br/&gt;I was thinking recently how inconvenient it was not to have a general
+term for iPhones, iPads, and the corresponding things running
+Android.  The closest to a general term seems to be "mobile devices,"
+but that (a) applies to any mobile phone, and (b) doesn't really
+capture what's distinctive about the iPad.&lt;br/&gt;&lt;br/&gt;After a few seconds it struck me that what we'll end up calling
+these things is tablets.  The only reason we even consider calli&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//tablets.html"/>
+    <published>2010-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//founders.html</id>
+    <title>What We Look for in Founders</title>
+    <updated>2025-06-07T16:00:42.930987+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+October 2010
+&lt;p&gt;
+&lt;i&gt;(I wrote this for Forbes, who asked me to write something
+about the qu&lt;/i&gt;&lt;/p&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//founders.html"/>
+    <published>2010-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//superangels.html</id>
+    <title>The New Funding Landscape</title>
+    <updated>2025-06-07T16:00:42.926660+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+October 2010&lt;br/&gt;&lt;br/&gt;After barely changing at all for decades, the startup funding
+busines&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//superangels.html"/>
+    <published>2010-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//seesv.html</id>
+    <title>Where to See Silicon Valley</title>
+    <updated>2025-06-07T16:00:42.924117+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+October 2010&lt;br/&gt;&lt;br/&gt;Silicon Valley proper is mostly suburban sprawl.  At first glance
+it &lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//seesv.html"/>
+    <published>2010-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hiresfund.html</id>
+    <title>High Resolution Fundraising</title>
+    <updated>2025-06-07T16:00:42.922648+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+September 2010&lt;br/&gt;&lt;br/&gt;The reason startups have been using 
+&amp;lt;a href="http://twitter.com/pa&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hiresfund.html"/>
+    <published>2010-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//yahoo.html</id>
+    <title>What Happened to Yahoo</title>
+    <updated>2025-06-07T16:00:42.920073+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+August 2010&lt;br/&gt;&lt;br/&gt;When I went to work for Yahoo after they bought our startup in 1998,
+i&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//yahoo.html"/>
+    <published>2010-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//future.html</id>
+    <title>The Future of Startup Funding</title>
+    <updated>2025-06-07T16:00:42.914138+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+August 2010&lt;br/&gt;&lt;br/&gt;Two years ago I
+&lt;a href="http://www.paulgraham.com/googles.html#next"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//future.html"/>
+    <published>2010-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//addiction.html</id>
+    <title>The Acceleration of Addictiveness</title>
+    <updated>2025-06-07T16:00:42.911950+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;July 2010&lt;br/&gt;&lt;br/&gt;What hard liquor, cigarettes, heroin, and crack have in common is
+that they're all more concentrated forms of less addictive predecessors.
+Most if not all the things we describe as addictive are.  And the
+scary thing is, the process that created them is accelerating.&lt;br/&gt;&lt;br/&gt;We wouldn't want to stop it.  It's the same process that cures
+diseases: technological progress.  Technological progress means
+making things do more of what we want.  When th&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//addiction.html"/>
+    <published>2010-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//top.html</id>
+    <title>The Top Idea in Your Mind</title>
+    <updated>2025-06-07T16:00:42.909285+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+July 2010&lt;br/&gt;&lt;br/&gt;I realized recently that what one thinks about in the shower in the
+morn&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//top.html"/>
+    <published>2010-07-01T00:00:00+00:00</published>
+  </entry>
+</feed>

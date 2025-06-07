@@ -6,45 +6,30 @@
   <link href="https://paulgraham.com/" rel="alternate"/>
   <link href="https://enigma.github.io/pgrss/rss-2010-07.xml" rel="self" type="application/rss+xml"/>
   <link href="https://enigma.github.io/pgrss/rss-2004-11.xml" rel="first" type="application/rss+xml"/>
-  <link href="https://enigma.github.io/pgrss/rss-2008-07.xml" rel="previous" type="application/rss+xml"/>
-  <link href="https://enigma.github.io/pgrss/rss-2014-10.xml" rel="next" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2008-05.xml" rel="previous" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2013-09.xml" rel="next" type="application/rss+xml"/>
   <link href="https://enigma.github.io/pgrss/rss.xml" rel="last" type="application/rss+xml"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Paul Graham's Essays</subtitle>
   <entry>
-    <id>https://paulgraham.com//top.html</id>
-    <title>The Top Idea in Your Mind</title>
-    <updated>2025-06-07T14:21:43.929966+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
-&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
-&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
-&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
-&lt;/font&gt;
-&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;
-July 2010&lt;br/&gt;&lt;br/&gt;I realized recently that what one thinks about in the shower in the
-morn&lt;/p&gt;&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//top.html"/>
-    <published>2010-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//addiction.html</id>
-    <title>The Acceleration of Addictiveness</title>
-    <updated>2025-06-07T14:21:43.927806+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;July 2010&lt;br/&gt;&lt;br/&gt;What hard liquor, cigarettes, heroin, and crack have in common is
-that they're all more concentrated forms of less addictive predecessors.
-Most if not all the things we describe as addictive are.  And the
-scary thing is, the process that created them is accelerating.&lt;br/&gt;&lt;br/&gt;We wouldn't want to stop it.  It's the same process that cures
-diseases: technological progress.  Technological progress means
-making things do more of what we want.  When th&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//addiction.html"/>
+    <id>https://paulgraham.com//selfindulgence.html</id>
+    <title>How to Lose Time and Money</title>
+    <updated>2025-06-07T16:00:42.905129+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;July 2010&lt;br/&gt;&lt;br/&gt;When we sold our startup in 1998 I suddenly got a lot of money.  I
+now had to think about something I hadn't had to think about before:
+how not to lose it.   I knew it was possible to go from rich to
+poor, just as it was possible to go from poor to rich.  But while
+I'd spent a lot of the past several years studying the paths from
+&lt;a href="https://paulgraham.com/wealth.html"&gt;poor to rich&lt;/a&gt;, 
+I knew practically nothing about the paths from rich
+to&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//selfindulgence.html"/>
     <published>2010-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://paulgraham.com//organic.html</id>
     <title>Organic Startup Ideas</title>
-    <updated>2025-06-07T14:21:43.925556+00:00</updated>
+    <updated>2025-06-07T16:00:42.902930+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ffc888"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -61,7 +46,7 @@ quest&lt;/p&gt;&lt;/font&gt;</content>
   <entry>
     <id>https://paulgraham.com//apple.html</id>
     <title>Apple's Mistake</title>
-    <updated>2025-06-07T14:21:43.922281+00:00</updated>
+    <updated>2025-06-07T16:00:42.899693+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -77,7 +62,7 @@ November 2009&lt;br/&gt;&lt;br/&gt;I don't think Apple realizes how badly the Ap
   <entry>
     <id>https://paulgraham.com//really.html</id>
     <title>What Startups Are Really Like</title>
-    <updated>2025-06-07T14:21:43.915132+00:00</updated>
+    <updated>2025-06-07T16:00:42.892693+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -91,9 +76,51 @@ October 2009&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This  essay is derived from a talk a
     <published>2009-10-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://paulgraham.com//discover.html</id>
+    <title>Persuade xor Discover</title>
+    <updated>2025-06-07T16:00:42.890887+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2009&lt;br/&gt;&lt;br/&gt;When meeting people you don't know very well, the convention is
+to seem extra friendly.  You smile and say "pleased to meet you,"
+whether you are or not.  There's nothing dishonest about this.
+Everyone knows that these little social lies aren't meant
+to be taken literally, just as everyone knows that 
+"Can you pass the salt?" is only grammatically a question.&lt;br/&gt;&lt;br/&gt;I'm perfectly willing to smile and say "pleased to meet you"
+when meeting n&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//discover.html"/>
+    <published>2009-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//publishing.html</id>
+    <title>Post-Medium Publishing</title>
+    <updated>2025-06-07T16:00:42.888249+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2009&lt;br/&gt;&lt;br/&gt;Publishers of all types, from news to music, are unhappy that
+consumers won't pay for content anymore.  At least, that's how they
+see it.&lt;br/&gt;&lt;br/&gt;In fact consumers never really were paying for content, and publishers
+weren't really selling it either.  If the content was what they
+were selling, why has the price of books or music or movies always
+depended mostly on the format?  Why didn't better content cost more?
+&lt;font color="#999999"&gt;[&amp;lt;a hr&lt;/font&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//publishing.html"/>
+    <published>2009-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//nthings.html</id>
+    <title>The List of N Things</title>
+    <updated>2025-06-07T16:00:42.884536+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2009&lt;br/&gt;&lt;br/&gt;I bet you the current issue of &lt;i&gt;Cosmopolitan&lt;/i&gt; has an article
+whose title begins with a number. "7 Things He Won't Tell You about
+Sex," or something like that.  Some popular magazines
+feature articles of this type on the cover of every
+issue.  That can't be happening by accident.  Editors must know
+they attract readers.&lt;br/&gt;&lt;br/&gt;Why do readers like the list of n things so much?   Mainly because
+it's easier to read than a regular article. &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//nthings.html"/>
+    <published>2009-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://paulgraham.com//determination.html</id>
     <title>The Anatomy of Determination</title>
-    <updated>2025-06-07T14:21:43.912446+00:00</updated>
+    <updated>2025-06-07T16:00:42.881795+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -108,51 +135,9 @@ p&lt;/p&gt;&lt;/font&gt;</content>
     <published>2009-09-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://paulgraham.com//nthings.html</id>
-    <title>The List of N Things</title>
-    <updated>2025-06-07T14:21:43.910695+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;September 2009&lt;br/&gt;&lt;br/&gt;I bet you the current issue of &lt;i&gt;Cosmopolitan&lt;/i&gt; has an article
-whose title begins with a number. "7 Things He Won't Tell You about
-Sex," or something like that.  Some popular magazines
-feature articles of this type on the cover of every
-issue.  That can't be happening by accident.  Editors must know
-they attract readers.&lt;br/&gt;&lt;br/&gt;Why do readers like the list of n things so much?   Mainly because
-it's easier to read than a regular article. &lt;/font&gt;</content>
-    <link href="https://paulgraham.com//nthings.html"/>
-    <published>2009-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//publishing.html</id>
-    <title>Post-Medium Publishing</title>
-    <updated>2025-06-07T14:21:43.906451+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;September 2009&lt;br/&gt;&lt;br/&gt;Publishers of all types, from news to music, are unhappy that
-consumers won't pay for content anymore.  At least, that's how they
-see it.&lt;br/&gt;&lt;br/&gt;In fact consumers never really were paying for content, and publishers
-weren't really selling it either.  If the content was what they
-were selling, why has the price of books or music or movies always
-depended mostly on the format?  Why didn't better content cost more?
-&lt;font color="#999999"&gt;[&amp;lt;a hr&lt;/font&gt;&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//publishing.html"/>
-    <published>2009-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//discover.html</id>
-    <title>Persuade xor Discover</title>
-    <updated>2025-06-07T14:21:43.904657+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;September 2009&lt;br/&gt;&lt;br/&gt;When meeting people you don't know very well, the convention is
-to seem extra friendly.  You smile and say "pleased to meet you,"
-whether you are or not.  There's nothing dishonest about this.
-Everyone knows that these little social lies aren't meant
-to be taken literally, just as everyone knows that 
-"Can you pass the salt?" is only grammatically a question.&lt;br/&gt;&lt;br/&gt;I'm perfectly willing to smile and say "pleased to meet you"
-when meeting n&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//discover.html"/>
-    <published>2009-09-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
     <id>https://paulgraham.com//kate.html</id>
     <title>What Kate Saw in Silicon Valley</title>
-    <updated>2025-06-07T14:21:43.903141+00:00</updated>
+    <updated>2025-06-07T16:00:42.880308+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;August 2009&lt;br/&gt;&lt;br/&gt;Kate Courteau is the architect who designed Y Combinator's office.
 Recently we managed to recruit her to help us run YC when she's not
 busy with architectural projects.  Though she'd heard a lot about
@@ -163,9 +148,41 @@ it.  This was her list:&lt;br/&gt;&lt;br/&gt;&amp;lt;&lt;/font&gt;</content>
     <published>2009-08-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://paulgraham.com//segway.html</id>
+    <title>The Trouble with the Segway</title>
+    <updated>2025-06-07T16:00:42.879482+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;July 2009&lt;br/&gt;&lt;br/&gt;The Segway hasn't delivered on its initial promise, to put it mildly.
+There are several reasons why, but one is that people don't want
+to be seen riding them. Someone riding a Segway looks like a dork.&lt;br/&gt;&lt;br/&gt;My friend Trevor Blackwell built 
+&lt;a href="http://tlb.org/#scooter"&gt;his own Segway&lt;/a&gt;, 
+which we called
+the Segwell. He also built a one-wheeled version, 
+&lt;a href="http://tlb.org/#eunicycle"&gt;the Eunicycle&lt;/a&gt;,
+which looks exactly like a re&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//segway.html"/>
+    <published>2009-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ramenprofitable.html</id>
+    <title>Ramen Profitable</title>
+    <updated>2025-06-07T16:00:42.876611+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+July 2009&lt;br/&gt;&lt;br/&gt;Now that the term "ramen profitable" has become widespread, I ought
+to e&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ramenprofitable.html"/>
+    <published>2009-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://paulgraham.com//makersschedule.html</id>
     <title>Maker's Schedule, Manager's Schedule</title>
-    <updated>2025-06-07T14:21:43.901607+00:00</updated>
+    <updated>2025-06-07T16:00:42.874648+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;!--&lt;table width=100% cellspacing=0&gt;
 &lt;tr&gt;&lt;td bgcolor=#ff9922&gt;&lt;img src="http://www.virtumundo.com/images/spacer.gif"
 height=15 width=1&gt;&lt;font size=2&gt;
@@ -183,55 +200,32 @@ height=15 width=1&gt;&lt;font size=2&gt;
     <published>2009-07-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://paulgraham.com//ramenprofitable.html</id>
-    <title>Ramen Profitable</title>
-    <updated>2025-06-07T14:21:43.898496+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
-&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
-&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
-&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
-&lt;/font&gt;
-&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p&gt;
-July 2009&lt;br/&gt;&lt;br/&gt;Now that the term "ramen profitable" has become widespread, I ought
-to e&lt;/p&gt;&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//ramenprofitable.html"/>
-    <published>2009-07-01T00:00:00+00:00</published>
+    <id>https://paulgraham.com//revolution.html</id>
+    <title>A Local Revolution?</title>
+    <updated>2025-06-07T16:00:42.872616+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2009&lt;br/&gt;&lt;br/&gt;Recently I realized I'd been holding two ideas in my head that would explode if combined.&lt;br/&gt;&lt;br/&gt;The first is that startups may represent a &lt;a href="https://paulgraham.com/highres.html"&gt;new economic phase&lt;/a&gt;, on the scale of the Industrial Revolution. I'm not sure of this, but there seems a decent chance it's true.  People are dramatically more 
+productive as founders or early employees of startups—imagine how much less Larry and Sergey would &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//revolution.html"/>
+    <published>2009-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://paulgraham.com//segway.html</id>
-    <title>The Trouble with the Segway</title>
-    <updated>2025-06-07T14:21:43.897672+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;July 2009&lt;br/&gt;&lt;br/&gt;The Segway hasn't delivered on its initial promise, to put it mildly.
-There are several reasons why, but one is that people don't want
-to be seen riding them. Someone riding a Segway looks like a dork.&lt;br/&gt;&lt;br/&gt;My friend Trevor Blackwell built 
-&lt;a href="http://tlb.org/#scooter"&gt;his own Segway&lt;/a&gt;, 
-which we called
-the Segwell. He also built a one-wheeled version, 
-&lt;a href="http://tlb.org/#eunicycle"&gt;the Eunicycle&lt;/a&gt;,
-which looks exactly like a re&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//segway.html"/>
-    <published>2009-07-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//5founders.html</id>
-    <title>Five Founders</title>
-    <updated>2025-06-07T14:21:43.896306+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;April 2009&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Inc&lt;/i&gt; recently asked me who I thought were the 5 most
-interesting startup founders of the last 30 years.  How do
-you decide who's the most interesting?  The best test seemed
-to be influence: who are the 5
-who've influenced me most?  Who do I use as examples when I'm
-talking to companies we fund?  Who do I find myself quoting?&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. Steve Jobs&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;I'd guess Steve is the most influential founder not just for me but
-for most p&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//5founders.html"/>
+    <id>https://paulgraham.com//twitter.html</id>
+    <title>Why Twitter is a Big Deal</title>
+    <updated>2025-06-07T16:00:42.872095+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2009&lt;br/&gt;&lt;br/&gt;&lt;a href="http://gigaom.com/2009/04/03/google-may-buy-twitter-or-not-but-why-is-twitter-so-hot/"&gt;Om Malik&lt;/a&gt; is the most recent of many people
+to ask why Twitter is such a big deal.&lt;br/&gt;&lt;br/&gt;The reason is that it's a new messaging 
+protocol, where you don't specify the recipients.
+New protocols are rare.  Or more precisely, new
+protocols that take off are.
+There are only a handful of commonly used ones: TCP/IP 
+(the Internet), SMTP (email), HTTP &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//twitter.html"/>
     <published>2009-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://paulgraham.com//foundervisa.html</id>
     <title>The Founder Visa</title>
-    <updated>2025-06-07T14:21:43.895424+00:00</updated>
+    <updated>2025-06-07T16:00:42.871215+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;!-- &lt;tr&gt;&lt;td bgcolor=#cccc99&gt;&lt;img src="http://www.virtumundo.com/images/spacer.gif"
 height=15 width=1&gt;&lt;font size=2&gt;
@@ -248,58 +242,23 @@ April 2009&lt;br/&gt;&lt;br/&gt;I usually avoid politics, but since we now seem 
     <published>2009-04-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://paulgraham.com//twitter.html</id>
-    <title>Why Twitter is a Big Deal</title>
-    <updated>2025-06-07T14:21:43.894891+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;April 2009&lt;br/&gt;&lt;br/&gt;&lt;a href="http://gigaom.com/2009/04/03/google-may-buy-twitter-or-not-but-why-is-twitter-so-hot/"&gt;Om Malik&lt;/a&gt; is the most recent of many people
-to ask why Twitter is such a big deal.&lt;br/&gt;&lt;br/&gt;The reason is that it's a new messaging 
-protocol, where you don't specify the recipients.
-New protocols are rare.  Or more precisely, new
-protocols that take off are.
-There are only a handful of commonly used ones: TCP/IP 
-(the Internet), SMTP (email), HTTP &lt;/font&gt;</content>
-    <link href="https://paulgraham.com//twitter.html"/>
+    <id>https://paulgraham.com//5founders.html</id>
+    <title>Five Founders</title>
+    <updated>2025-06-07T16:00:42.869876+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2009&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Inc&lt;/i&gt; recently asked me who I thought were the 5 most
+interesting startup founders of the last 30 years.  How do
+you decide who's the most interesting?  The best test seemed
+to be influence: who are the 5
+who've influenced me most?  Who do I use as examples when I'm
+talking to companies we fund?  Who do I find myself quoting?&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. Steve Jobs&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;I'd guess Steve is the most influential founder not just for me but
+for most p&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//5founders.html"/>
     <published>2009-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//revolution.html</id>
-    <title>A Local Revolution?</title>
-    <updated>2025-06-07T14:21:43.892956+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;April 2009&lt;br/&gt;&lt;br/&gt;Recently I realized I'd been holding two ideas in my head that would explode if combined.&lt;br/&gt;&lt;br/&gt;The first is that startups may represent a &lt;a href="https://paulgraham.com/highres.html"&gt;new economic phase&lt;/a&gt;, on the scale of the Industrial Revolution. I'm not sure of this, but there seems a decent chance it's true.  People are dramatically more 
-productive as founders or early employees of startups—imagine how much less Larry and Sergey would &lt;/font&gt;</content>
-    <link href="https://paulgraham.com//revolution.html"/>
-    <published>2009-04-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//convergence.html</id>
-    <title>Why TV Lost</title>
-    <updated>2025-06-07T14:21:43.890748+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;March 2009&lt;br/&gt;&lt;br/&gt;About twenty years ago people noticed computers and TV were on a
-collision course and started to speculate about what they'd produce
-when they converged.  We now know the answer: computers.  It's clear
-now that even by using the word "convergence" we were giving TV too
-much credit.  This won't be convergence so much as replacement.
-People may still watch things they call "TV shows," but they'll
-watch them mostly on computers.&lt;br/&gt;&lt;br/&gt;What decide&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//convergence.html"/>
-    <published>2009-03-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//angelinvesting.html</id>
-    <title>How to Be an Angel Investor</title>
-    <updated>2025-06-07T14:21:43.885771+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;March 2009&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at &lt;a href="http://angelconf.org"&gt;AngelConf&lt;/a&gt;.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;When we sold our startup in 1998 I thought one day I'd do some angel
-investing.  Seven years later I still hadn't started.  I put it off
-because it seemed mysterious and complicated.   It turns out to be 
-easier than I expected, and also more interesting.&lt;br/&gt;&lt;br/&gt;The part I thought was hard, the mechanics of investing, really
-isn't. You give a st&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//angelinvesting.html"/>
-    <published>2009-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://paulgraham.com//relres.html</id>
     <title>Relentlessly Resourceful</title>
-    <updated>2025-06-07T14:21:43.883469+00:00</updated>
+    <updated>2025-06-07T16:00:42.867578+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by&#13;
@@ -314,22 +273,62 @@ t&lt;/p&gt;&lt;/font&gt;</content>
     <published>2009-03-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://paulgraham.com//identity.html</id>
-    <title>Keep Your Identity Small</title>
-    <updated>2025-06-07T14:21:43.882022+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;February 2009&lt;br/&gt;&lt;br/&gt;I finally realized today why politics and religion yield such
-uniquely useless discussions.&lt;br/&gt;&lt;br/&gt;As a rule, any mention of religion on an online forum degenerates
-into a religious argument.  Why?  Why does this happen with religion
-and not with Javascript or baking or other topics people talk about
-on forums?&lt;br/&gt;&lt;br/&gt;What's different about religion is that people don't feel they need
-to have any particular expertise to have opinions about&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//identity.html"/>
+    <id>https://paulgraham.com//angelinvesting.html</id>
+    <title>How to Be an Angel Investor</title>
+    <updated>2025-06-07T16:00:42.862551+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2009&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at &lt;a href="http://angelconf.org"&gt;AngelConf&lt;/a&gt;.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;When we sold our startup in 1998 I thought one day I'd do some angel
+investing.  Seven years later I still hadn't started.  I put it off
+because it seemed mysterious and complicated.   It turns out to be 
+easier than I expected, and also more interesting.&lt;br/&gt;&lt;br/&gt;The part I thought was hard, the mechanics of investing, really
+isn't. You give a st&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//angelinvesting.html"/>
+    <published>2009-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//convergence.html</id>
+    <title>Why TV Lost</title>
+    <updated>2025-06-07T16:00:42.860375+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2009&lt;br/&gt;&lt;br/&gt;About twenty years ago people noticed computers and TV were on a
+collision course and started to speculate about what they'd produce
+when they converged.  We now know the answer: computers.  It's clear
+now that even by using the word "convergence" we were giving TV too
+much credit.  This won't be convergence so much as replacement.
+People may still watch things they call "TV shows," but they'll
+watch them mostly on computers.&lt;br/&gt;&lt;br/&gt;What decide&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//convergence.html"/>
+    <published>2009-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//maybe.html</id>
+    <title>Can You Buy a Silicon Valley?  Maybe.</title>
+    <updated>2025-06-07T16:00:42.857243+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;February 2009&lt;br/&gt;&lt;br/&gt;A lot of cities look at Silicon Valley and ask "How could we make
+something like that happen here?"  The 
+&lt;a href="https://paulgraham.com/siliconvalley.html"&gt;organic&lt;/a&gt; way to do it is to
+establish a first-rate university in a place where rich people want
+to live. That's how Silicon Valley happened.  But could you shortcut
+the process by funding startups?&lt;br/&gt;&lt;br/&gt;Possibly. Let's consider what it would take.&lt;br/&gt;&lt;br/&gt;The first thing to unders&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//maybe.html"/>
+    <published>2009-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hackernews.html</id>
+    <title>What I've Learned from Hacker News</title>
+    <updated>2025-06-07T16:00:42.853400+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;February 2009&lt;br/&gt;&lt;br/&gt;Hacker News was two years
+old last week.  Initially it was supposed to be a side project—an
+application to sharpen Arc on, and a place for current and future
+Y Combinator founders to exchange news.  It's grown bigger and taken
+up more time than I expected, but I don't regret that because I've
+learned so much from working on it.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Growth&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;When we launched in February 2007, weekday traffic was around 1600
+daily uniques.  It&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hackernews.html"/>
     <published>2009-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://paulgraham.com//13sentences.html</id>
     <title>Startups in 13 Sentences</title>
-    <updated>2025-06-07T14:21:43.878489+00:00</updated>
+    <updated>2025-06-07T16:00:42.850058+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -343,63 +342,22 @@ to have any particular expertise to have opinions about&lt;/font&gt;</content>
     <published>2009-02-01T00:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://paulgraham.com//hackernews.html</id>
-    <title>What I've Learned from Hacker News</title>
-    <updated>2025-06-07T14:21:43.874658+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;February 2009&lt;br/&gt;&lt;br/&gt;Hacker News was two years
-old last week.  Initially it was supposed to be a side project—an
-application to sharpen Arc on, and a place for current and future
-Y Combinator founders to exchange news.  It's grown bigger and taken
-up more time than I expected, but I don't regret that because I've
-learned so much from working on it.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Growth&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;When we launched in February 2007, weekday traffic was around 1600
-daily uniques.  It&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//hackernews.html"/>
+    <id>https://paulgraham.com//identity.html</id>
+    <title>Keep Your Identity Small</title>
+    <updated>2025-06-07T16:00:42.848326+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;February 2009&lt;br/&gt;&lt;br/&gt;I finally realized today why politics and religion yield such
+uniquely useless discussions.&lt;br/&gt;&lt;br/&gt;As a rule, any mention of religion on an online forum degenerates
+into a religious argument.  Why?  Why does this happen with religion
+and not with Javascript or baking or other topics people talk about
+on forums?&lt;br/&gt;&lt;br/&gt;What's different about religion is that people don't feel they need
+to have any particular expertise to have opinions about&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//identity.html"/>
     <published>2009-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//maybe.html</id>
-    <title>Can You Buy a Silicon Valley?  Maybe.</title>
-    <updated>2025-06-07T14:21:43.871454+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;February 2009&lt;br/&gt;&lt;br/&gt;A lot of cities look at Silicon Valley and ask "How could we make
-something like that happen here?"  The 
-&lt;a href="https://paulgraham.com/siliconvalley.html"&gt;organic&lt;/a&gt; way to do it is to
-establish a first-rate university in a place where rich people want
-to live. That's how Silicon Valley happened.  But could you shortcut
-the process by funding startups?&lt;br/&gt;&lt;br/&gt;Possibly. Let's consider what it would take.&lt;br/&gt;&lt;br/&gt;The first thing to unders&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//maybe.html"/>
-    <published>2009-02-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//highres.html</id>
-    <title>The High-Res Society</title>
-    <updated>2025-06-07T14:21:43.869200+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;December 2008&lt;br/&gt;&lt;br/&gt;For nearly all of history the success of a society was proportionate
-to its ability to assemble large and disciplined organizations.
-Those who bet on economies of scale generally won, which meant the
-largest organizations were the most successful ones.&lt;br/&gt;&lt;br/&gt;Things have already changed so much that this is hard for us to
-believe, but till just a few decades ago the largest organizations
-tended to be the most progressive.  An ambitious kid g&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//highres.html"/>
-    <published>2008-12-01T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>https://paulgraham.com//divergence.html</id>
-    <title>Could VC be a Casualty of the Recession?</title>
-    <updated>2025-06-07T14:21:43.867947+00:00</updated>
-    <content>&lt;font face="verdana" size="2"&gt;December 2008&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(I originally wrote this at the request of a company producing
-a report about entrepreneurship.  Unfortunately after reading it
-they decided  it was too controversial to include.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;
-VC funding will probably dry up somewhat during the present recession,
-like it usually does in bad times.  But this time the result may
-be different.  This time the number of new startups may not decrease.
-And that could be dangerous for VCs.&lt;br/&gt;&amp;lt;br&lt;/font&gt;</content>
-    <link href="https://paulgraham.com//divergence.html"/>
-    <published>2008-12-01T00:00:00+00:00</published>
   </entry>
   <entry>
     <id>https://paulgraham.com//credentials.html</id>
     <title>After Credentials</title>
-    <updated>2025-06-07T14:21:43.864850+00:00</updated>
+    <updated>2025-06-07T16:00:42.845249+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;December 2008&lt;br/&gt;&lt;br/&gt;A few months ago I read a &lt;i&gt;New York Times&lt;/i&gt; article on South
 Korean cram schools that said &lt;blockquote&gt;
   Admission to the right university can make or break an ambitious
@@ -413,9 +371,36 @@ yet when I was in high school it wouldn't have&lt;/font&gt;</content>
     <published>2008-12-01T00:00:00+00:00</published>
   </entry>
   <entry>
+    <id>https://paulgraham.com//divergence.html</id>
+    <title>Could VC be a Casualty of the Recession?</title>
+    <updated>2025-06-07T16:00:42.844015+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2008&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(I originally wrote this at the request of a company producing
+a report about entrepreneurship.  Unfortunately after reading it
+they decided  it was too controversial to include.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;
+VC funding will probably dry up somewhat during the present recession,
+like it usually does in bad times.  But this time the result may
+be different.  This time the number of new startups may not decrease.
+And that could be dangerous for VCs.&lt;br/&gt;&amp;lt;br&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//divergence.html"/>
+    <published>2008-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//highres.html</id>
+    <title>The High-Res Society</title>
+    <updated>2025-06-07T16:00:42.841805+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2008&lt;br/&gt;&lt;br/&gt;For nearly all of history the success of a society was proportionate
+to its ability to assemble large and disciplined organizations.
+Those who bet on economies of scale generally won, which meant the
+largest organizations were the most successful ones.&lt;br/&gt;&lt;br/&gt;Things have already changed so much that this is hard for us to
+believe, but till just a few decades ago the largest organizations
+tended to be the most progressive.  An ambitious kid g&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//highres.html"/>
+    <published>2008-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
     <id>https://paulgraham.com//artistsship.html</id>
     <title>The Other Half of "Artists Ship"</title>
-    <updated>2025-06-07T14:21:43.863327+00:00</updated>
+    <updated>2025-06-07T16:00:42.840401+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;November 2008&lt;br/&gt;&lt;br/&gt;One of the differences between big companies and startups is that
 big companies tend to have developed procedures to protect themselves
 against mistakes.  A startup walks like a toddler, bashing
@@ -429,7 +414,7 @@ like it.  After giving a contract &lt;/font&gt;</content>
   <entry>
     <id>https://paulgraham.com//badeconomy.html</id>
     <title>Why to Start a Startup in a Bad Economy</title>
-    <updated>2025-06-07T14:21:43.861614+00:00</updated>
+    <updated>2025-06-07T16:00:42.838741+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -446,7 +431,7 @@ w&lt;/p&gt;&lt;/font&gt;</content>
   <entry>
     <id>https://paulgraham.com//fundraising.html</id>
     <title>A Fundraising Survival Guide</title>
-    <updated>2025-06-07T14:21:43.855633+00:00</updated>
+    <updated>2025-06-07T16:00:42.832774+00:00</updated>
     <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
 &lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
 &lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
@@ -459,5 +444,19 @@ August 2008&lt;br/&gt;&lt;br/&gt;Raising money is the second hardest part of sta
 The ha&lt;/p&gt;&lt;/font&gt;</content>
     <link href="https://paulgraham.com//fundraising.html"/>
     <published>2008-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//prcmc.html</id>
+    <title>The Pooled-Risk Company Management Company</title>
+    <updated>2025-06-07T16:00:42.831117+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;July 2008&lt;br/&gt;&lt;br/&gt;At this year's startup school, David Heinemeier Hansson gave a
+ &lt;a href="http://www.omnisio.com/startupschool08/david-heinemeier-hansson-at-startup-school-08"&gt;talk&lt;/a&gt;
+in which he suggested that startup founders
+should do things the old fashioned way.  Instead of hoping to get
+rich by building a valuable company and then selling stock in a
+"liquidity event," founders should start companies that make money
+and live off the revenues.&lt;br/&gt;&lt;br/&gt;Sounds&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//prcmc.html"/>
+    <published>2008-07-01T00:00:00+00:00</published>
   </entry>
 </feed>

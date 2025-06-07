@@ -1114,119 +1114,6 @@ and Robert Morris for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Founder Mode</title>
-      <link>https://paulgraham.com//foundermode.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who
-was there will remember. Most founders I talked to afterward said
-it was the best they'd ever heard. Ron Conway, for the first time
-in his life, forgot to take notes. I'm not going to try to reproduce
-it here. Instead I want to talk about a question it raised.&lt;br/&gt;&lt;br/&gt;The theme of Brian's talk was that the conventional wisdom about
-how to run larger companies is mistaken. As &lt;/font&gt;</description>
-      <content:encoded>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who
-was there will remember. Most founders I talked to afterward said
-it was the best they'd ever heard. Ron Conway, for the first time
-in his life, forgot to take notes. I'm not going to try to reproduce
-it here. Instead I want to talk about a question it raised.&lt;br/&gt;&lt;br/&gt;The theme of Brian's talk was that the conventional wisdom about
-how to run larger companies is mistaken. As Airbnb grew, well-meaning
-people advised him that he had to run the company in a certain way
-for it to scale. Their advice could be optimistically summarized
-as "hire good people and give them room to do their jobs." He
-followed this advice and the results were disastrous. So he had to
-figure out a better way on his own, which he did partly by studying
-how Steve Jobs ran Apple. So far it seems to be working. Airbnb's
-free cash flow margin is now among the best in Silicon Valley.&lt;br/&gt;&lt;br/&gt;The audience at this event included a lot of the most successful
-founders we've funded, and one after another said that the same
-thing had happened to them. They'd been given the same advice about
-how to run their companies as they grew, but instead of helping
-their companies, it had damaged them.&lt;br/&gt;&lt;br/&gt;Why was everyone telling these founders the wrong thing? That was
-the big mystery to me. And after mulling it over for a bit I figured
-out the answer: what they were being told was how to run a company
-you hadn't founded — how to run a company if you're merely a
-professional manager. But this m.o. is so much less effective that
-to founders it feels broken. There are things founders can do that
-managers can't, and not doing them feels wrong to founders, because
-it is.&lt;br/&gt;&lt;br/&gt;In effect there are two different ways to run a company: founder
-mode and manager mode. Till now most people even in Silicon Valley
-have implicitly assumed that scaling a startup meant switching to
-manager mode. But we can infer the existence of another mode from
-the dismay of founders who've tried it, and the success of their
-attempts to escape from it.&lt;br/&gt;&lt;br/&gt;There are as far as I know no books specifically about founder mode.
-Business schools don't know it exists. All we have so far are the
-experiments of individual founders who've been figuring it out for
-themselves. But now that we know what we're looking for, we can
-search for it. I hope in a few years founder mode will be as well
-understood as manager mode. We can already guess at some of the
-ways it will differ.&lt;br/&gt;&lt;br/&gt;The way managers are taught to run companies seems to be like modular
-design in the sense that you treat subtrees of the org chart as
-black boxes. You tell your direct reports what to do, and it's up
-to them to figure out how. But you don't get involved in the details
-of what they do. That would be micromanaging them, which is bad.&lt;br/&gt;&lt;br/&gt;Hire good people and give them room to do their jobs. Sounds great
-when it's described that way, doesn't it? Except in practice, judging
-from the report of founder after founder, what this often turns out
-to mean is: hire professional fakers and let them drive the company
-into the ground.&lt;br/&gt;&lt;br/&gt;One theme I noticed both in Brian's talk and when talking to founders
-afterward was the idea of being gaslit. Founders feel like they're
-being gaslit from both sides — by the people telling them they
-have to run their companies like managers, and by the people working
-for them when they do. Usually when everyone around you disagrees
-with you, your default assumption should be that you're mistaken.
-But this is one of the rare exceptions. VCs who haven't been founders
-themselves don't know how founders should run companies, and C-level
-execs, as a class, include some of the most skillful liars in the
-world.
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/foundermode.html#f1n"&gt;&lt;font color="#dddddd"&gt;1&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Whatever founder mode consists of, it's pretty clear that it's going
-to break the principle that the CEO should engage with the company
-only via his or her direct reports. "Skip-level" meetings will
-become the norm instead of a practice so unusual that there's a
-name for it. And once you abandon that constraint there are a huge
-number of permutations to choose from.&lt;br/&gt;&lt;br/&gt;For example, Steve Jobs used to run an annual retreat for what he
-considered the 100 most important people at Apple, and these were
-not the 100 people highest on the org chart. Can you imagine the
-force of will it would take to do this at the average company? And
-yet imagine how useful such a thing could be. It could make a big
-company feel like a startup. Steve presumably wouldn't have kept
-having these retreats if they didn't work. But I've never heard of
-another company doing this. So is it a good idea, or a bad one? We
-still don't know. That's how little we know about founder mode.
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/foundermode.html#f2n"&gt;&lt;font color="#dddddd"&gt;2&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Obviously founders can't keep running a 2000 person company the way
-they ran it when it had 20. There's going to have to be some amount
-of delegation. Where the borders of autonomy end up, and how sharp
-they are, will probably vary from company to company. They'll even
-vary from time to time within the same company, as managers earn
-trust. So founder mode will be more complicated than manager mode.
-But it will also work better. We already know that from the examples
-of individual founders groping their way toward it.&lt;br/&gt;&lt;br/&gt;Indeed, another prediction I'll make about founder mode is that
-once we figure out what it is, we'll find that a number of individual
-founders were already most of the way there — except that in doing
-what they did they were regarded by many as eccentric or worse.
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/foundermode.html#f3n"&gt;&lt;font color="#dddddd"&gt;3&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Curiously enough it's an encouraging thought that we still know so
-little about founder mode. Look at what founders have achieved
-already, and yet they've achieved this against a headwind of bad
-advice. Imagine what they'll do once we can tell them how to run
-their companies like Steve Jobs instead of John Sculley.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Notes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;[&lt;a name="f1n"&gt;&lt;font color="#000000"&gt;1&lt;/font&gt;&lt;/a&gt;]
-The more diplomatic way of phrasing this statement would be
-to say that experienced C-level execs are often very skilled at
-managing up. And I don't think anyone with knowledge of this world
-would dispute that.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f2n"&gt;&lt;font color="#000000"&gt;2&lt;/font&gt;&lt;/a&gt;]
-If the practice of having such retreats became so widespread
-that even mature companies dominated by politics started to do it,
-we could quantify the senescence of companies by the average depth
-on the org chart of those invited.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f3n"&gt;&lt;font color="#000000"&gt;3&lt;/font&gt;&lt;/a&gt;]
-I also have another less optimistic prediction: as soon as
-the concept of founder mode becomes established, people will start
-misusing it. Founders who are unable to delegate even things they
-should will use founder mode as the excuse. Or managers who aren't
-founders will decide they should try to act like founders. That may
-even work, to some extent, but the results will be messy when it
-doesn't; the modular approach does at least limit the damage a bad
-CEO can do.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font color="888888"&gt;&lt;b&gt;Thanks&lt;/b&gt; to Brian Chesky, Patrick Collison, 
-Ron Conway, Jessica
-Livingston, Elon Musk, Ryan Petersen, Harj Taggar, and Garry Tan
-for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
-      <guid isPermaLink="false">https://paulgraham.com//foundermode.html</guid>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>When To Do What You Love</title>
       <link>https://paulgraham.com//when.html</link>
       <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;There's some debate about whether it's a good idea to "follow your
@@ -1362,6 +1249,119 @@ Jessica Livingston,
 Robert Morris, Harj Taggar, and Garry Tan for reading drafts of
 this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
       <guid isPermaLink="false">https://paulgraham.com//when.html</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Founder Mode</title>
+      <link>https://paulgraham.com//foundermode.html</link>
+      <description>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who
+was there will remember. Most founders I talked to afterward said
+it was the best they'd ever heard. Ron Conway, for the first time
+in his life, forgot to take notes. I'm not going to try to reproduce
+it here. Instead I want to talk about a question it raised.&lt;br/&gt;&lt;br/&gt;The theme of Brian's talk was that the conventional wisdom about
+how to run larger companies is mistaken. As &lt;/font&gt;</description>
+      <content:encoded>&lt;font face="verdana" size="2"&gt;September 2024&lt;br/&gt;&lt;br/&gt;At a YC event last week Brian Chesky gave a talk that everyone who
+was there will remember. Most founders I talked to afterward said
+it was the best they'd ever heard. Ron Conway, for the first time
+in his life, forgot to take notes. I'm not going to try to reproduce
+it here. Instead I want to talk about a question it raised.&lt;br/&gt;&lt;br/&gt;The theme of Brian's talk was that the conventional wisdom about
+how to run larger companies is mistaken. As Airbnb grew, well-meaning
+people advised him that he had to run the company in a certain way
+for it to scale. Their advice could be optimistically summarized
+as "hire good people and give them room to do their jobs." He
+followed this advice and the results were disastrous. So he had to
+figure out a better way on his own, which he did partly by studying
+how Steve Jobs ran Apple. So far it seems to be working. Airbnb's
+free cash flow margin is now among the best in Silicon Valley.&lt;br/&gt;&lt;br/&gt;The audience at this event included a lot of the most successful
+founders we've funded, and one after another said that the same
+thing had happened to them. They'd been given the same advice about
+how to run their companies as they grew, but instead of helping
+their companies, it had damaged them.&lt;br/&gt;&lt;br/&gt;Why was everyone telling these founders the wrong thing? That was
+the big mystery to me. And after mulling it over for a bit I figured
+out the answer: what they were being told was how to run a company
+you hadn't founded — how to run a company if you're merely a
+professional manager. But this m.o. is so much less effective that
+to founders it feels broken. There are things founders can do that
+managers can't, and not doing them feels wrong to founders, because
+it is.&lt;br/&gt;&lt;br/&gt;In effect there are two different ways to run a company: founder
+mode and manager mode. Till now most people even in Silicon Valley
+have implicitly assumed that scaling a startup meant switching to
+manager mode. But we can infer the existence of another mode from
+the dismay of founders who've tried it, and the success of their
+attempts to escape from it.&lt;br/&gt;&lt;br/&gt;There are as far as I know no books specifically about founder mode.
+Business schools don't know it exists. All we have so far are the
+experiments of individual founders who've been figuring it out for
+themselves. But now that we know what we're looking for, we can
+search for it. I hope in a few years founder mode will be as well
+understood as manager mode. We can already guess at some of the
+ways it will differ.&lt;br/&gt;&lt;br/&gt;The way managers are taught to run companies seems to be like modular
+design in the sense that you treat subtrees of the org chart as
+black boxes. You tell your direct reports what to do, and it's up
+to them to figure out how. But you don't get involved in the details
+of what they do. That would be micromanaging them, which is bad.&lt;br/&gt;&lt;br/&gt;Hire good people and give them room to do their jobs. Sounds great
+when it's described that way, doesn't it? Except in practice, judging
+from the report of founder after founder, what this often turns out
+to mean is: hire professional fakers and let them drive the company
+into the ground.&lt;br/&gt;&lt;br/&gt;One theme I noticed both in Brian's talk and when talking to founders
+afterward was the idea of being gaslit. Founders feel like they're
+being gaslit from both sides — by the people telling them they
+have to run their companies like managers, and by the people working
+for them when they do. Usually when everyone around you disagrees
+with you, your default assumption should be that you're mistaken.
+But this is one of the rare exceptions. VCs who haven't been founders
+themselves don't know how founders should run companies, and C-level
+execs, as a class, include some of the most skillful liars in the
+world.
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/foundermode.html#f1n"&gt;&lt;font color="#dddddd"&gt;1&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Whatever founder mode consists of, it's pretty clear that it's going
+to break the principle that the CEO should engage with the company
+only via his or her direct reports. "Skip-level" meetings will
+become the norm instead of a practice so unusual that there's a
+name for it. And once you abandon that constraint there are a huge
+number of permutations to choose from.&lt;br/&gt;&lt;br/&gt;For example, Steve Jobs used to run an annual retreat for what he
+considered the 100 most important people at Apple, and these were
+not the 100 people highest on the org chart. Can you imagine the
+force of will it would take to do this at the average company? And
+yet imagine how useful such a thing could be. It could make a big
+company feel like a startup. Steve presumably wouldn't have kept
+having these retreats if they didn't work. But I've never heard of
+another company doing this. So is it a good idea, or a bad one? We
+still don't know. That's how little we know about founder mode.
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/foundermode.html#f2n"&gt;&lt;font color="#dddddd"&gt;2&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Obviously founders can't keep running a 2000 person company the way
+they ran it when it had 20. There's going to have to be some amount
+of delegation. Where the borders of autonomy end up, and how sharp
+they are, will probably vary from company to company. They'll even
+vary from time to time within the same company, as managers earn
+trust. So founder mode will be more complicated than manager mode.
+But it will also work better. We already know that from the examples
+of individual founders groping their way toward it.&lt;br/&gt;&lt;br/&gt;Indeed, another prediction I'll make about founder mode is that
+once we figure out what it is, we'll find that a number of individual
+founders were already most of the way there — except that in doing
+what they did they were regarded by many as eccentric or worse.
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/foundermode.html#f3n"&gt;&lt;font color="#dddddd"&gt;3&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Curiously enough it's an encouraging thought that we still know so
+little about founder mode. Look at what founders have achieved
+already, and yet they've achieved this against a headwind of bad
+advice. Imagine what they'll do once we can tell them how to run
+their companies like Steve Jobs instead of John Sculley.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Notes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;[&lt;a name="f1n"&gt;&lt;font color="#000000"&gt;1&lt;/font&gt;&lt;/a&gt;]
+The more diplomatic way of phrasing this statement would be
+to say that experienced C-level execs are often very skilled at
+managing up. And I don't think anyone with knowledge of this world
+would dispute that.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f2n"&gt;&lt;font color="#000000"&gt;2&lt;/font&gt;&lt;/a&gt;]
+If the practice of having such retreats became so widespread
+that even mature companies dominated by politics started to do it,
+we could quantify the senescence of companies by the average depth
+on the org chart of those invited.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f3n"&gt;&lt;font color="#000000"&gt;3&lt;/font&gt;&lt;/a&gt;]
+I also have another less optimistic prediction: as soon as
+the concept of founder mode becomes established, people will start
+misusing it. Founders who are unable to delegate even things they
+should will use founder mode as the excuse. Or managers who aren't
+founders will decide they should try to act like founders. That may
+even work, to some extent, but the results will be messy when it
+doesn't; the modular approach does at least limit the damage a bad
+CEO can do.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font color="888888"&gt;&lt;b&gt;Thanks&lt;/b&gt; to Brian Chesky, Patrick Collison, 
+Ron Conway, Jessica
+Livingston, Elon Musk, Ryan Petersen, Harj Taggar, and Garry Tan
+for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
+      <guid isPermaLink="false">https://paulgraham.com//foundermode.html</guid>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1540,6 +1540,338 @@ Courtenay Pipkin, Harj Taggar, and Garry Tan for reading drafts of
 this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
       <guid isPermaLink="false">https://paulgraham.com//persistence.html</guid>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Reddits</title>
+      <link>https://paulgraham.com//reddits.html</link>
+      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they
+were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the
+undergrad computer club) about how to start a startup. Everyone
+else in the audience was probably local, but Steve and Alexis came
+up on the train from the University of Virginia, where they were
+seniors. Since they'd come so far I agreed to meet them for coffee.
+They&lt;/font&gt;</description>
+      <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they
+were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the
+undergrad computer club) about how to start a startup. Everyone
+else in the audience was probably local, but Steve and Alexis came
+up on the train from the University of Virginia, where they were
+seniors. Since they'd come so far I agreed to meet them for coffee.
+They told me about the startup idea we'd later fund them to drop:
+a way to order fast food on your cellphone.&lt;br/&gt;&lt;br/&gt;This was before smartphones. They'd have had to make deals with
+cell carriers and fast food chains just to get it launched. So it
+was not going to happen. It still doesn't exist, 19 years later.
+But I was impressed with their brains and their energy. In fact I
+was so impressed with them and some of the other people I met at
+that talk that I decided to start something to fund them. A few
+days later I told Steve and Alexis that we were starting Y Combinator,
+and encouraged them to apply.&lt;br/&gt;&lt;br/&gt;That first batch we didn't have any way to identify applicants, so
+we made up nicknames for them. The Reddits were the "Cell food
+muffins." "Muffin" is a term of endearment Jessica uses for things
+like small dogs and two year olds. So that gives you some idea what
+kind of impression Steve and Alexis made in those days. They had
+the look of slightly ruffled surprise that baby birds have.&lt;br/&gt;&lt;br/&gt;Their idea was bad though. And since we thought then that we were
+funding ideas rather than founders, we rejected them. But we felt
+bad about it. Jessica was sad that we'd rejected the muffins. And
+it seemed wrong to me to turn down the people we'd been inspired
+to start YC to fund.&lt;br/&gt;&lt;br/&gt;I don't think the startup sense of the word "pivot" had been invented
+yet, but we wanted to fund Steve and Alexis, so if their idea was
+bad, they'd have to work on something else. And I knew what else.
+In those days there was a site called Delicious where you could
+save links. It had a page called del.icio.us/popular that listed
+the most-saved links, and people were using this page as a de facto
+Reddit. I knew because a lot of the traffic to my site was coming
+from it. There needed to be something like del.icio.us/popular, but
+designed for sharing links instead of being a byproduct of saving
+them.&lt;br/&gt;&lt;br/&gt;So I called Steve and Alexis and said that we liked them, just not
+their idea, so we'd fund them if they'd work on something else.
+They were on the train home to Virginia at that point. They got off
+at the next station and got on the next train north, and by the end
+of the day were committed to working on what's now called Reddit.&lt;br/&gt;&lt;br/&gt;They would have liked to call it Snoo, as in "What snoo?" But
+snoo.com was too expensive, so they settled for calling the mascot
+Snoo and picked a name for the site that wasn't registered. Early
+on Reddit was just a provisional name, or so they told me at least,
+but it's probably too late to change it now.&lt;br/&gt;&lt;br/&gt;As with all the really great startups, there's an uncannily close
+match between the company and the founders. Steve in particular.
+Reddit has a certain personality — curious, skeptical, ready to
+be amused — and that personality is Steve's.&lt;br/&gt;&lt;br/&gt;Steve will roll his eyes at this, but he's an intellectual; he's
+interested in ideas for their own sake. That was how he came to be
+in that audience in Cambridge in the first place. He knew me because
+he was interested in a programming language I've written about
+called Lisp, and Lisp is one of those languages few people learn
+except out of intellectual curiosity. Steve's kind of vacuum-cleaner
+curiosity is exactly what you want when you're starting a site
+that's a list of links to literally anything interesting.&lt;br/&gt;&lt;br/&gt;Steve was not a big fan of authority, so he also liked the idea of
+a site without editors. In those days the top forum for programmers
+was a site called Slashdot. It was a lot like Reddit, except the
+stories on the frontpage were chosen by human moderators. And though
+they did a good job, that one small difference turned out to be a
+big difference. Being driven by user submissions meant Reddit was
+fresher than Slashdot. News there was newer, and users will always
+go where the newest news is.&lt;br/&gt;&lt;br/&gt;I pushed the Reddits to launch fast. A version one didn't need to
+be more than a couple hundred lines of code. How could that take
+more than a week or two to build? And they did launch comparatively
+fast, about three weeks into the first YC batch. The first users
+were Steve, Alexis, me, and some of their YC batchmates and college
+friends. It turns out you don't need that many users to collect a
+decent list of interesting links, especially if you have multiple
+accounts per user.&lt;br/&gt;&lt;br/&gt;Reddit got two more people from their YC batch: Chris Slowe and
+Aaron Swartz, and they too were unusually smart. Chris was just
+finishing his PhD in physics at Harvard. Aaron was younger, a college
+freshman, and even more anti-authority than Steve. It's not
+exaggerating to describe him as a martyr for what authority later
+did to him.&lt;br/&gt;&lt;br/&gt;Slowly but inexorably Reddit's traffic grew. At first the numbers
+were so small they were hard to distinguish from background noise.
+But within a few weeks it was clear that there was a core of real
+users returning regularly to the site. And although all kinds of
+things have happened to Reddit the company in the years since,
+Reddit the &lt;i&gt;site&lt;/i&gt; never looked back.&lt;br/&gt;&lt;br/&gt;Reddit the site (and now app) is such a fundamentally useful thing
+that it's almost unkillable. Which is why, despite a long stretch
+after Steve left when the management strategy ranged from benign
+neglect to spectacular blunders, traffic just kept growing. You
+can't do that with most companies. Most companies you take your eye
+off the ball for six months and you're in deep trouble. But Reddit
+was special, and when Steve came back in 2015, I knew the world was
+in for a surprise.&lt;br/&gt;&lt;br/&gt;People thought they had Reddit's number: one of the players in
+Silicon Valley, but not one of the big ones. But those who knew
+what had been going on behind the scenes knew there was more to the
+story than this. If Reddit could grow to the size it had with
+management that was harmless at best, what could it do if Steve
+came back? We now know the answer to that question. Or at least a
+lower bound on the answer. Steve is not out of ideas yet.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
+      <guid isPermaLink="false">https://paulgraham.com//reddits.html</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Start Google</title>
+      <link>https://paulgraham.com//google.html</link>
+      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now
+if they might want to start a startup later. Lots of schools think
+they should tell students something about startups. This is what I
+think they should tell them.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Most of you probably think that when you're released into the
+so-called real world you'll eventually have to get some kind of
+job. That's not true, and today I'm going to talk about a trick you
+can use t&lt;/font&gt;</description>
+      <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now
+if they might want to start a startup later. Lots of schools think
+they should tell students something about startups. This is what I
+think they should tell them.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Most of you probably think that when you're released into the
+so-called real world you'll eventually have to get some kind of
+job. That's not true, and today I'm going to talk about a trick you
+can use to avoid ever having to get a job.&lt;br/&gt;&lt;br/&gt;The trick is to start your own company. So it's not a trick for
+avoiding &lt;i&gt;work&lt;/i&gt;, because if you start your own company you'll
+work harder than you would if you had an ordinary job. But you will
+avoid many of the annoying things that come with a job, including
+a boss telling you what to do.&lt;br/&gt;&lt;br/&gt;It's more exciting to work on your own project than someone else's.
+And you can also get a lot richer. In fact, this is the standard
+way to get 
+&lt;a href="https://paulgraham.com/richnow.html"&gt;&lt;u&gt;really rich&lt;/u&gt;&lt;/a&gt;. If you look at the lists of the richest
+people that occasionally get published in the press, nearly all of
+them did it by starting their own companies.&lt;br/&gt;&lt;br/&gt;Starting your own company can mean anything from starting a barber
+shop to starting Google. I'm here to talk about one extreme end of
+that continuum. I'm going to tell you how to start Google.&lt;br/&gt;&lt;br/&gt;The companies at the Google end of the continuum are called startups
+when they're young. The reason I know about them is that my wife
+Jessica and I started something called Y Combinator that is basically
+a startup factory. Since 2005, Y Combinator has funded over 4000
+startups. So we know exactly what you need to start a startup,
+because we've helped people do it for the last 19 years.&lt;br/&gt;&lt;br/&gt;You might have thought I was joking when I said I was going to tell
+you how to start Google. You might be thinking "How could &lt;i&gt;we&lt;/i&gt;
+start Google?" But that's effectively what the people who did start
+Google were thinking before they started it. If you'd told Larry
+Page and Sergey Brin, the founders of Google, that the company they
+were about to start would one day be worth over a trillion dollars,
+their heads would have exploded.&lt;br/&gt;&lt;br/&gt;All you can know when you start working on a startup is that it
+seems worth pursuing. You can't know whether it will turn into
+a company worth billions or one that goes out of business. So when I
+say I'm going to tell you how to start Google, I mean I'm going to
+tell you how to get to the point where you can start a company that
+has as much chance of being Google as Google had of being Google.
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/google.html#f1n"&gt;&lt;font color="#dddddd"&gt;1&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;How do you get from where you are now to the point where you can
+start a successful startup? You need three things. You need to be
+good at some kind of technology, you need an idea for what you're
+going to build, and you need cofounders to start the company with.&lt;br/&gt;&lt;br/&gt;How do you get good at technology? And how do you choose which
+technology to get good at? Both of those questions turn out to have
+the same answer: work on your own projects. Don't try to guess
+whether gene editing or LLMs or rockets will turn out to be the
+most valuable technology to know about. No one can predict that.
+Just work on whatever interests you the most. You'll work much
+harder on something you're interested in than something you're doing
+because you think you're supposed to.&lt;br/&gt;&lt;br/&gt;If you're not sure what technology to get good at, get good at
+programming. That has been the source of the median startup for the
+last 30 years, and this is probably not going to change in the next
+10.&lt;br/&gt;&lt;br/&gt;Those of you who are taking computer science classes in school may
+at this point be thinking, ok, we've got this sorted. We're already
+being taught all about programming. But sorry, this is not enough.
+You have to be working on your own projects, not just learning stuff
+in classes. You can do well in computer science classes without
+ever really learning to program. In fact you can graduate with a
+degree in computer science from a top university and still not be
+any good at programming. That's why tech companies all make you
+take a coding test before they'll hire you, regardless of where you
+went to university or how well you did there. They know grades and
+exam results prove nothing.&lt;br/&gt;&lt;br/&gt;If you really want to learn to program, you have to work on your
+own projects. You learn so much faster that way. Imagine you're
+writing a game and there's something you want to do in it, and you
+don't know how. You're going to figure out how a lot faster than
+you'd learn anything in a class.&lt;br/&gt;&lt;br/&gt;You don't have to learn programming, though. If you're wondering
+what counts as technology, it includes practically everything you
+could describe using the words "make" or "build." So welding would
+count, or making clothes, or making videos. Whatever you're most
+interested in. The critical distinction is whether you're producing
+or just consuming. Are you writing computer games, or just playing
+them? That's the cutoff.&lt;br/&gt;&lt;br/&gt;Steve Jobs, the founder of Apple, spent time when he was a teenager
+studying calligraphy — the sort of beautiful writing that
+you see in medieval manuscripts. No one, including him, thought
+that this would help him in his career. He was just doing it because
+he was interested in it. But it turned out to help him a lot. The
+computer that made Apple really big, the Macintosh, came out at
+just the moment when computers got powerful enough to make letters
+like the ones in printed books instead of the computery-looking
+letters you see in 8 bit games. Apple destroyed everyone else at
+this, and one reason was that Steve was one of the few people in
+the computer business who really got graphic design.&lt;br/&gt;&lt;br/&gt;Don't feel like your projects have to be &lt;i&gt;serious&lt;/i&gt;. They can
+be as frivolous as you like, so long as you're building things
+you're excited about. Probably 90% of programmers start out building
+games. They and their friends like to play games. So they build
+the kind of things they and their friends want. And that's exactly
+what you should be doing at 15 if you want to start a startup one
+day.&lt;br/&gt;&lt;br/&gt;You don't have to do just one project. In fact it's good to learn
+about multiple things. Steve Jobs didn't just learn calligraphy.
+He also learned about electronics, which was even more valuable.
+Whatever you're interested in. (Do you notice a theme here?)&lt;br/&gt;&lt;br/&gt;So that's the first of the three things you need, to get good at
+some kind or kinds of technology. You do it the same way you get
+good at the violin or football: practice. If you start a startup
+at 22, and you start writing your own programs now, then by the
+time you start the company you'll have spent at least 7 years
+practicing writing code, and you can get pretty good at anything
+after practicing it for 7 years.&lt;br/&gt;&lt;br/&gt;Let's suppose you're 22 and you've succeeded: You're now really
+good at some technology. How do you get 
+&lt;a href="https://paulgraham.com/startupideas.html"&gt;&lt;u&gt;startup ideas&lt;/u&gt;&lt;/a&gt;? It might
+seem like that's the hard part. Even if you are a good programmer,
+how do you get the idea to start Google?&lt;br/&gt;&lt;br/&gt;Actually it's easy to get startup ideas once you're good at technology.
+Once you're good at some technology, when you look at the world you
+see dotted outlines around the things that are missing. You start
+to be able to see both the things that are missing from the technology
+itself, and all the broken things that could be fixed using it, and
+each one of these is a potential startup.&lt;br/&gt;&lt;br/&gt;In the town near our house there's a shop with a sign warning that
+the door is hard to close. The sign has been there for several
+years. To the people in the shop it must seem like this mysterious
+natural phenomenon that the door sticks, and all they can do is put
+up a sign warning customers about it. But any carpenter looking at
+this situation would think "why don't you just plane off the part
+that sticks?"&lt;br/&gt;&lt;br/&gt;Once you're good at programming, all the missing software in the
+world starts to become as obvious as a sticking door to a carpenter.
+I'll give you a real world example. Back in the 20th century,
+American universities used to publish printed directories with all
+the students' names and contact info. When I tell you what these
+directories were called, you'll know which startup I'm talking
+about. They were called facebooks, because they usually had a picture
+of each student next to their name.&lt;br/&gt;&lt;br/&gt;So Mark Zuckerberg shows up at Harvard in 2002, and the university
+still hasn't gotten the facebook online. Each individual house has
+an online facebook, but there isn't one for the whole university.
+The university administration has been diligently having meetings
+about this, and will probably have solved the problem in another
+decade or so. Most of the students don't consciously notice that
+anything is wrong. But Mark is a programmer. He looks at this
+situation and thinks "Well, this is stupid. I could write a program
+to fix this in one night. Just let people upload their own photos
+and then combine the data into a new site for the whole university."
+So he does. And almost literally overnight he has thousands of
+users.&lt;br/&gt;&lt;br/&gt;Of course Facebook was not a startup yet. It was just a... project.
+There's that word again. Projects aren't just the best way to learn
+about technology. They're also the best source of startup ideas.&lt;br/&gt;&lt;br/&gt;Facebook was not unusual in this respect. Apple and Google also
+began as projects. Apple wasn't meant to be a company. Steve Wozniak
+just wanted to build his own computer. It only turned into a company
+when Steve Jobs said "Hey, I wonder if we could sell plans for this
+computer to other people." That's how Apple started. They weren't
+even selling computers, just plans for computers. Can you imagine
+how lame this company seemed?&lt;br/&gt;&lt;br/&gt;Ditto for Google. Larry and Sergey weren't trying to start a company
+at first. They were just trying to make search better. Before Google,
+most search engines didn't try to sort the results they gave you
+in order of importance. If you searched for "rugby" they just gave
+you every web page that contained the word "rugby." And the web was
+so small in 1997 that this actually worked! Kind of. There might
+only be 20 or 30 pages with the word "rugby," but the web was growing
+exponentially, which meant this way of doing search was becoming
+exponentially more broken. Most users just thought, "Wow, I sure
+have to look through a lot of search results to find what I want."
+Door sticks. But like Mark, Larry and Sergey were programmers. Like
+Mark, they looked at this situation and thought "Well, this is
+stupid. Some pages about rugby matter more than others. Let's figure
+out which those are and show them first."&lt;br/&gt;&lt;br/&gt;It's obvious in retrospect that this was a great idea for a startup.
+It wasn't obvious at the time. It's never obvious. If it was obviously
+a good idea to start Apple or Google or Facebook, someone else would
+have already done it. That's why the best startups grow out of
+projects that aren't meant to be startups. You're not trying to
+start a company. You're just following your instincts about what's
+interesting. And if you're young and good at technology, then your
+unconscious instincts about what's interesting are better than your
+conscious ideas about what would be a good company.&lt;br/&gt;&lt;br/&gt;So it's critical, if you're a young founder, to build things for
+yourself and your friends to use. The biggest mistake young founders
+make is to build something for some mysterious group of other people.
+But if you can make something that you and your friends truly want
+to use — something your friends aren't just using out of
+loyalty to you, but would be really sad to lose if you shut it down
+— then you almost certainly have the germ of a good startup
+idea. It may not seem like a startup to you. It may not be obvious
+how to make money from it. But trust me, there's a way.&lt;br/&gt;&lt;br/&gt;What you need in a startup idea, and all you need, is something
+your friends actually want. And those ideas aren't hard to see once
+you're good at technology. There are sticking doors everywhere.
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/google.html#f2n"&gt;&lt;font color="#dddddd"&gt;2&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Now for the third and final thing you need: a cofounder, or cofounders.
+The optimal startup has two or three founders, so you need one or
+two cofounders. How do you find them? Can you predict what I'm going
+to say next? It's the same thing: projects. You find cofounders by
+working on projects with them. What you need in a cofounder is
+someone who's good at what they do and that you work well with, and
+the only way to judge this is to work with them on things.&lt;br/&gt;&lt;br/&gt;At this point I'm going to tell you something you might not want
+to hear. It really matters to do well in your classes, even the
+ones that are just memorization or blathering about literature,
+because you need to do well in your classes to get into a good
+university. And if you want to start a startup you should try to
+get into the best university you can, because that's where the best
+cofounders are. It's also where the best employees are. When Larry
+and Sergey started Google, they began by just hiring all the smartest
+people they knew out of Stanford, and this was a real advantage for
+them.&lt;br/&gt;&lt;br/&gt;The empirical evidence is clear on this. If you look at where the
+largest numbers of successful startups come from, it's pretty much
+the same as the list of the most selective universities.&lt;br/&gt;&lt;br/&gt;I don't think it's the prestigious names of these universities that
+cause more good startups to come out of them. Nor do I think it's
+because the quality of the teaching is better. What's driving this
+is simply the difficulty of getting in. You have to be pretty smart
+and determined to get into MIT or Cambridge, so if you do manage
+to get in, you'll find the other students include a lot of smart
+and determined people.
+&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/google.html#f3n"&gt;&lt;font color="#dddddd"&gt;3&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;You don't have to start a startup with someone you meet at university.
+The founders of Twitch met when they were seven. The founders of
+Stripe, Patrick and John Collison, met when John was born. But
+universities are the main source of cofounders. And because they're
+where the cofounders are, they're also where the ideas are, because
+the best ideas grow out of projects you do with the people who
+become your cofounders.&lt;br/&gt;&lt;br/&gt;So the list of what you need to do to get from here to starting a
+startup is quite short. You need to get good at technology, and the
+way to do that is to work on your own projects. And you need to do
+as well in school as you can, so you can get into a good university,
+because that's where the cofounders and the ideas are.&lt;br/&gt;&lt;br/&gt;That's it, just two things, build stuff and do well in school.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Notes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;[&lt;a name="f1n"&gt;&lt;font color="#000000"&gt;1&lt;/font&gt;&lt;/a&gt;]
+The rhetorical trick in this sentence is that the "Google"s
+refer to different things. What I mean is: a company that has as
+much chance of growing as big as Google ultimately did as Larry and
+Sergey could have reasonably expected Google itself would at the
+time they started it. But I think the original version is zippier.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f2n"&gt;&lt;font color="#000000"&gt;2&lt;/font&gt;&lt;/a&gt;]
+Making something for your friends isn't the only source of
+startup ideas. It's just the best source for young founders, who
+have the least knowledge of what other people want, and whose own
+wants are most predictive of future demand.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f3n"&gt;&lt;font color="#000000"&gt;3&lt;/font&gt;&lt;/a&gt;]
+Strangely enough this is particularly true in countries like
+the US where undergraduate admissions are done badly. US admissions
+departments make applicants jump through a lot of arbitrary hoops
+that have little to do with their intellectual ability. But the
+more arbitrary a test, the more it becomes a test of mere determination
+and resourcefulness. And those are the two most important qualities
+in startup founders. So US admissions departments are better at
+selecting founders than they would be if they were better at selecting
+students.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font color="888888"&gt;&lt;b&gt;Thanks&lt;/b&gt; to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
+      <guid isPermaLink="false">https://paulgraham.com//google.html</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>The Best Essay</title>
@@ -1906,338 +2238,6 @@ Jessica Livingston, Robert
 Morris, Courtenay Pipkin, and Harj Taggar for reading drafts of
 this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
       <guid isPermaLink="false">https://paulgraham.com//best.html</guid>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Start Google</title>
-      <link>https://paulgraham.com//google.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now
-if they might want to start a startup later. Lots of schools think
-they should tell students something about startups. This is what I
-think they should tell them.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Most of you probably think that when you're released into the
-so-called real world you'll eventually have to get some kind of
-job. That's not true, and today I'm going to talk about a trick you
-can use t&lt;/font&gt;</description>
-      <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave to 14 and 15 year olds about what to do now
-if they might want to start a startup later. Lots of schools think
-they should tell students something about startups. This is what I
-think they should tell them.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Most of you probably think that when you're released into the
-so-called real world you'll eventually have to get some kind of
-job. That's not true, and today I'm going to talk about a trick you
-can use to avoid ever having to get a job.&lt;br/&gt;&lt;br/&gt;The trick is to start your own company. So it's not a trick for
-avoiding &lt;i&gt;work&lt;/i&gt;, because if you start your own company you'll
-work harder than you would if you had an ordinary job. But you will
-avoid many of the annoying things that come with a job, including
-a boss telling you what to do.&lt;br/&gt;&lt;br/&gt;It's more exciting to work on your own project than someone else's.
-And you can also get a lot richer. In fact, this is the standard
-way to get 
-&lt;a href="https://paulgraham.com/richnow.html"&gt;&lt;u&gt;really rich&lt;/u&gt;&lt;/a&gt;. If you look at the lists of the richest
-people that occasionally get published in the press, nearly all of
-them did it by starting their own companies.&lt;br/&gt;&lt;br/&gt;Starting your own company can mean anything from starting a barber
-shop to starting Google. I'm here to talk about one extreme end of
-that continuum. I'm going to tell you how to start Google.&lt;br/&gt;&lt;br/&gt;The companies at the Google end of the continuum are called startups
-when they're young. The reason I know about them is that my wife
-Jessica and I started something called Y Combinator that is basically
-a startup factory. Since 2005, Y Combinator has funded over 4000
-startups. So we know exactly what you need to start a startup,
-because we've helped people do it for the last 19 years.&lt;br/&gt;&lt;br/&gt;You might have thought I was joking when I said I was going to tell
-you how to start Google. You might be thinking "How could &lt;i&gt;we&lt;/i&gt;
-start Google?" But that's effectively what the people who did start
-Google were thinking before they started it. If you'd told Larry
-Page and Sergey Brin, the founders of Google, that the company they
-were about to start would one day be worth over a trillion dollars,
-their heads would have exploded.&lt;br/&gt;&lt;br/&gt;All you can know when you start working on a startup is that it
-seems worth pursuing. You can't know whether it will turn into
-a company worth billions or one that goes out of business. So when I
-say I'm going to tell you how to start Google, I mean I'm going to
-tell you how to get to the point where you can start a company that
-has as much chance of being Google as Google had of being Google.
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/google.html#f1n"&gt;&lt;font color="#dddddd"&gt;1&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;How do you get from where you are now to the point where you can
-start a successful startup? You need three things. You need to be
-good at some kind of technology, you need an idea for what you're
-going to build, and you need cofounders to start the company with.&lt;br/&gt;&lt;br/&gt;How do you get good at technology? And how do you choose which
-technology to get good at? Both of those questions turn out to have
-the same answer: work on your own projects. Don't try to guess
-whether gene editing or LLMs or rockets will turn out to be the
-most valuable technology to know about. No one can predict that.
-Just work on whatever interests you the most. You'll work much
-harder on something you're interested in than something you're doing
-because you think you're supposed to.&lt;br/&gt;&lt;br/&gt;If you're not sure what technology to get good at, get good at
-programming. That has been the source of the median startup for the
-last 30 years, and this is probably not going to change in the next
-10.&lt;br/&gt;&lt;br/&gt;Those of you who are taking computer science classes in school may
-at this point be thinking, ok, we've got this sorted. We're already
-being taught all about programming. But sorry, this is not enough.
-You have to be working on your own projects, not just learning stuff
-in classes. You can do well in computer science classes without
-ever really learning to program. In fact you can graduate with a
-degree in computer science from a top university and still not be
-any good at programming. That's why tech companies all make you
-take a coding test before they'll hire you, regardless of where you
-went to university or how well you did there. They know grades and
-exam results prove nothing.&lt;br/&gt;&lt;br/&gt;If you really want to learn to program, you have to work on your
-own projects. You learn so much faster that way. Imagine you're
-writing a game and there's something you want to do in it, and you
-don't know how. You're going to figure out how a lot faster than
-you'd learn anything in a class.&lt;br/&gt;&lt;br/&gt;You don't have to learn programming, though. If you're wondering
-what counts as technology, it includes practically everything you
-could describe using the words "make" or "build." So welding would
-count, or making clothes, or making videos. Whatever you're most
-interested in. The critical distinction is whether you're producing
-or just consuming. Are you writing computer games, or just playing
-them? That's the cutoff.&lt;br/&gt;&lt;br/&gt;Steve Jobs, the founder of Apple, spent time when he was a teenager
-studying calligraphy — the sort of beautiful writing that
-you see in medieval manuscripts. No one, including him, thought
-that this would help him in his career. He was just doing it because
-he was interested in it. But it turned out to help him a lot. The
-computer that made Apple really big, the Macintosh, came out at
-just the moment when computers got powerful enough to make letters
-like the ones in printed books instead of the computery-looking
-letters you see in 8 bit games. Apple destroyed everyone else at
-this, and one reason was that Steve was one of the few people in
-the computer business who really got graphic design.&lt;br/&gt;&lt;br/&gt;Don't feel like your projects have to be &lt;i&gt;serious&lt;/i&gt;. They can
-be as frivolous as you like, so long as you're building things
-you're excited about. Probably 90% of programmers start out building
-games. They and their friends like to play games. So they build
-the kind of things they and their friends want. And that's exactly
-what you should be doing at 15 if you want to start a startup one
-day.&lt;br/&gt;&lt;br/&gt;You don't have to do just one project. In fact it's good to learn
-about multiple things. Steve Jobs didn't just learn calligraphy.
-He also learned about electronics, which was even more valuable.
-Whatever you're interested in. (Do you notice a theme here?)&lt;br/&gt;&lt;br/&gt;So that's the first of the three things you need, to get good at
-some kind or kinds of technology. You do it the same way you get
-good at the violin or football: practice. If you start a startup
-at 22, and you start writing your own programs now, then by the
-time you start the company you'll have spent at least 7 years
-practicing writing code, and you can get pretty good at anything
-after practicing it for 7 years.&lt;br/&gt;&lt;br/&gt;Let's suppose you're 22 and you've succeeded: You're now really
-good at some technology. How do you get 
-&lt;a href="https://paulgraham.com/startupideas.html"&gt;&lt;u&gt;startup ideas&lt;/u&gt;&lt;/a&gt;? It might
-seem like that's the hard part. Even if you are a good programmer,
-how do you get the idea to start Google?&lt;br/&gt;&lt;br/&gt;Actually it's easy to get startup ideas once you're good at technology.
-Once you're good at some technology, when you look at the world you
-see dotted outlines around the things that are missing. You start
-to be able to see both the things that are missing from the technology
-itself, and all the broken things that could be fixed using it, and
-each one of these is a potential startup.&lt;br/&gt;&lt;br/&gt;In the town near our house there's a shop with a sign warning that
-the door is hard to close. The sign has been there for several
-years. To the people in the shop it must seem like this mysterious
-natural phenomenon that the door sticks, and all they can do is put
-up a sign warning customers about it. But any carpenter looking at
-this situation would think "why don't you just plane off the part
-that sticks?"&lt;br/&gt;&lt;br/&gt;Once you're good at programming, all the missing software in the
-world starts to become as obvious as a sticking door to a carpenter.
-I'll give you a real world example. Back in the 20th century,
-American universities used to publish printed directories with all
-the students' names and contact info. When I tell you what these
-directories were called, you'll know which startup I'm talking
-about. They were called facebooks, because they usually had a picture
-of each student next to their name.&lt;br/&gt;&lt;br/&gt;So Mark Zuckerberg shows up at Harvard in 2002, and the university
-still hasn't gotten the facebook online. Each individual house has
-an online facebook, but there isn't one for the whole university.
-The university administration has been diligently having meetings
-about this, and will probably have solved the problem in another
-decade or so. Most of the students don't consciously notice that
-anything is wrong. But Mark is a programmer. He looks at this
-situation and thinks "Well, this is stupid. I could write a program
-to fix this in one night. Just let people upload their own photos
-and then combine the data into a new site for the whole university."
-So he does. And almost literally overnight he has thousands of
-users.&lt;br/&gt;&lt;br/&gt;Of course Facebook was not a startup yet. It was just a... project.
-There's that word again. Projects aren't just the best way to learn
-about technology. They're also the best source of startup ideas.&lt;br/&gt;&lt;br/&gt;Facebook was not unusual in this respect. Apple and Google also
-began as projects. Apple wasn't meant to be a company. Steve Wozniak
-just wanted to build his own computer. It only turned into a company
-when Steve Jobs said "Hey, I wonder if we could sell plans for this
-computer to other people." That's how Apple started. They weren't
-even selling computers, just plans for computers. Can you imagine
-how lame this company seemed?&lt;br/&gt;&lt;br/&gt;Ditto for Google. Larry and Sergey weren't trying to start a company
-at first. They were just trying to make search better. Before Google,
-most search engines didn't try to sort the results they gave you
-in order of importance. If you searched for "rugby" they just gave
-you every web page that contained the word "rugby." And the web was
-so small in 1997 that this actually worked! Kind of. There might
-only be 20 or 30 pages with the word "rugby," but the web was growing
-exponentially, which meant this way of doing search was becoming
-exponentially more broken. Most users just thought, "Wow, I sure
-have to look through a lot of search results to find what I want."
-Door sticks. But like Mark, Larry and Sergey were programmers. Like
-Mark, they looked at this situation and thought "Well, this is
-stupid. Some pages about rugby matter more than others. Let's figure
-out which those are and show them first."&lt;br/&gt;&lt;br/&gt;It's obvious in retrospect that this was a great idea for a startup.
-It wasn't obvious at the time. It's never obvious. If it was obviously
-a good idea to start Apple or Google or Facebook, someone else would
-have already done it. That's why the best startups grow out of
-projects that aren't meant to be startups. You're not trying to
-start a company. You're just following your instincts about what's
-interesting. And if you're young and good at technology, then your
-unconscious instincts about what's interesting are better than your
-conscious ideas about what would be a good company.&lt;br/&gt;&lt;br/&gt;So it's critical, if you're a young founder, to build things for
-yourself and your friends to use. The biggest mistake young founders
-make is to build something for some mysterious group of other people.
-But if you can make something that you and your friends truly want
-to use — something your friends aren't just using out of
-loyalty to you, but would be really sad to lose if you shut it down
-— then you almost certainly have the germ of a good startup
-idea. It may not seem like a startup to you. It may not be obvious
-how to make money from it. But trust me, there's a way.&lt;br/&gt;&lt;br/&gt;What you need in a startup idea, and all you need, is something
-your friends actually want. And those ideas aren't hard to see once
-you're good at technology. There are sticking doors everywhere.
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/google.html#f2n"&gt;&lt;font color="#dddddd"&gt;2&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;Now for the third and final thing you need: a cofounder, or cofounders.
-The optimal startup has two or three founders, so you need one or
-two cofounders. How do you find them? Can you predict what I'm going
-to say next? It's the same thing: projects. You find cofounders by
-working on projects with them. What you need in a cofounder is
-someone who's good at what they do and that you work well with, and
-the only way to judge this is to work with them on things.&lt;br/&gt;&lt;br/&gt;At this point I'm going to tell you something you might not want
-to hear. It really matters to do well in your classes, even the
-ones that are just memorization or blathering about literature,
-because you need to do well in your classes to get into a good
-university. And if you want to start a startup you should try to
-get into the best university you can, because that's where the best
-cofounders are. It's also where the best employees are. When Larry
-and Sergey started Google, they began by just hiring all the smartest
-people they knew out of Stanford, and this was a real advantage for
-them.&lt;br/&gt;&lt;br/&gt;The empirical evidence is clear on this. If you look at where the
-largest numbers of successful startups come from, it's pretty much
-the same as the list of the most selective universities.&lt;br/&gt;&lt;br/&gt;I don't think it's the prestigious names of these universities that
-cause more good startups to come out of them. Nor do I think it's
-because the quality of the teaching is better. What's driving this
-is simply the difficulty of getting in. You have to be pretty smart
-and determined to get into MIT or Cambridge, so if you do manage
-to get in, you'll find the other students include a lot of smart
-and determined people.
-&lt;font color="#dddddd"&gt;[&lt;a href="https://paulgraham.com/google.html#f3n"&gt;&lt;font color="#dddddd"&gt;3&lt;/font&gt;&lt;/a&gt;]&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;You don't have to start a startup with someone you meet at university.
-The founders of Twitch met when they were seven. The founders of
-Stripe, Patrick and John Collison, met when John was born. But
-universities are the main source of cofounders. And because they're
-where the cofounders are, they're also where the ideas are, because
-the best ideas grow out of projects you do with the people who
-become your cofounders.&lt;br/&gt;&lt;br/&gt;So the list of what you need to do to get from here to starting a
-startup is quite short. You need to get good at technology, and the
-way to do that is to work on your own projects. And you need to do
-as well in school as you can, so you can get into a good university,
-because that's where the cofounders and the ideas are.&lt;br/&gt;&lt;br/&gt;That's it, just two things, build stuff and do well in school.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Notes&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;[&lt;a name="f1n"&gt;&lt;font color="#000000"&gt;1&lt;/font&gt;&lt;/a&gt;]
-The rhetorical trick in this sentence is that the "Google"s
-refer to different things. What I mean is: a company that has as
-much chance of growing as big as Google ultimately did as Larry and
-Sergey could have reasonably expected Google itself would at the
-time they started it. But I think the original version is zippier.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f2n"&gt;&lt;font color="#000000"&gt;2&lt;/font&gt;&lt;/a&gt;]
-Making something for your friends isn't the only source of
-startup ideas. It's just the best source for young founders, who
-have the least knowledge of what other people want, and whose own
-wants are most predictive of future demand.&lt;br/&gt;&lt;br/&gt;[&lt;a name="f3n"&gt;&lt;font color="#000000"&gt;3&lt;/font&gt;&lt;/a&gt;]
-Strangely enough this is particularly true in countries like
-the US where undergraduate admissions are done badly. US admissions
-departments make applicants jump through a lot of arbitrary hoops
-that have little to do with their intellectual ability. But the
-more arbitrary a test, the more it becomes a test of mere determination
-and resourcefulness. And those are the two most important qualities
-in startup founders. So US admissions departments are better at
-selecting founders than they would be if they were better at selecting
-students.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;font color="888888"&gt;&lt;b&gt;Thanks&lt;/b&gt; to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
-      <guid isPermaLink="false">https://paulgraham.com//google.html</guid>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Reddits</title>
-      <link>https://paulgraham.com//reddits.html</link>
-      <description>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they
-were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the
-undergrad computer club) about how to start a startup. Everyone
-else in the audience was probably local, but Steve and Alexis came
-up on the train from the University of Virginia, where they were
-seniors. Since they'd come so far I agreed to meet them for coffee.
-They&lt;/font&gt;</description>
-      <content:encoded>&lt;font face="verdana" size="2"&gt;March 2024&lt;br/&gt;&lt;br/&gt;I met the Reddits before we even started Y Combinator. In fact they
-were one of the reasons we started it.&lt;br/&gt;&lt;br/&gt;YC grew out of a talk I gave to the Harvard Computer Society (the
-undergrad computer club) about how to start a startup. Everyone
-else in the audience was probably local, but Steve and Alexis came
-up on the train from the University of Virginia, where they were
-seniors. Since they'd come so far I agreed to meet them for coffee.
-They told me about the startup idea we'd later fund them to drop:
-a way to order fast food on your cellphone.&lt;br/&gt;&lt;br/&gt;This was before smartphones. They'd have had to make deals with
-cell carriers and fast food chains just to get it launched. So it
-was not going to happen. It still doesn't exist, 19 years later.
-But I was impressed with their brains and their energy. In fact I
-was so impressed with them and some of the other people I met at
-that talk that I decided to start something to fund them. A few
-days later I told Steve and Alexis that we were starting Y Combinator,
-and encouraged them to apply.&lt;br/&gt;&lt;br/&gt;That first batch we didn't have any way to identify applicants, so
-we made up nicknames for them. The Reddits were the "Cell food
-muffins." "Muffin" is a term of endearment Jessica uses for things
-like small dogs and two year olds. So that gives you some idea what
-kind of impression Steve and Alexis made in those days. They had
-the look of slightly ruffled surprise that baby birds have.&lt;br/&gt;&lt;br/&gt;Their idea was bad though. And since we thought then that we were
-funding ideas rather than founders, we rejected them. But we felt
-bad about it. Jessica was sad that we'd rejected the muffins. And
-it seemed wrong to me to turn down the people we'd been inspired
-to start YC to fund.&lt;br/&gt;&lt;br/&gt;I don't think the startup sense of the word "pivot" had been invented
-yet, but we wanted to fund Steve and Alexis, so if their idea was
-bad, they'd have to work on something else. And I knew what else.
-In those days there was a site called Delicious where you could
-save links. It had a page called del.icio.us/popular that listed
-the most-saved links, and people were using this page as a de facto
-Reddit. I knew because a lot of the traffic to my site was coming
-from it. There needed to be something like del.icio.us/popular, but
-designed for sharing links instead of being a byproduct of saving
-them.&lt;br/&gt;&lt;br/&gt;So I called Steve and Alexis and said that we liked them, just not
-their idea, so we'd fund them if they'd work on something else.
-They were on the train home to Virginia at that point. They got off
-at the next station and got on the next train north, and by the end
-of the day were committed to working on what's now called Reddit.&lt;br/&gt;&lt;br/&gt;They would have liked to call it Snoo, as in "What snoo?" But
-snoo.com was too expensive, so they settled for calling the mascot
-Snoo and picked a name for the site that wasn't registered. Early
-on Reddit was just a provisional name, or so they told me at least,
-but it's probably too late to change it now.&lt;br/&gt;&lt;br/&gt;As with all the really great startups, there's an uncannily close
-match between the company and the founders. Steve in particular.
-Reddit has a certain personality — curious, skeptical, ready to
-be amused — and that personality is Steve's.&lt;br/&gt;&lt;br/&gt;Steve will roll his eyes at this, but he's an intellectual; he's
-interested in ideas for their own sake. That was how he came to be
-in that audience in Cambridge in the first place. He knew me because
-he was interested in a programming language I've written about
-called Lisp, and Lisp is one of those languages few people learn
-except out of intellectual curiosity. Steve's kind of vacuum-cleaner
-curiosity is exactly what you want when you're starting a site
-that's a list of links to literally anything interesting.&lt;br/&gt;&lt;br/&gt;Steve was not a big fan of authority, so he also liked the idea of
-a site without editors. In those days the top forum for programmers
-was a site called Slashdot. It was a lot like Reddit, except the
-stories on the frontpage were chosen by human moderators. And though
-they did a good job, that one small difference turned out to be a
-big difference. Being driven by user submissions meant Reddit was
-fresher than Slashdot. News there was newer, and users will always
-go where the newest news is.&lt;br/&gt;&lt;br/&gt;I pushed the Reddits to launch fast. A version one didn't need to
-be more than a couple hundred lines of code. How could that take
-more than a week or two to build? And they did launch comparatively
-fast, about three weeks into the first YC batch. The first users
-were Steve, Alexis, me, and some of their YC batchmates and college
-friends. It turns out you don't need that many users to collect a
-decent list of interesting links, especially if you have multiple
-accounts per user.&lt;br/&gt;&lt;br/&gt;Reddit got two more people from their YC batch: Chris Slowe and
-Aaron Swartz, and they too were unusually smart. Chris was just
-finishing his PhD in physics at Harvard. Aaron was younger, a college
-freshman, and even more anti-authority than Steve. It's not
-exaggerating to describe him as a martyr for what authority later
-did to him.&lt;br/&gt;&lt;br/&gt;Slowly but inexorably Reddit's traffic grew. At first the numbers
-were so small they were hard to distinguish from background noise.
-But within a few weeks it was clear that there was a core of real
-users returning regularly to the site. And although all kinds of
-things have happened to Reddit the company in the years since,
-Reddit the &lt;i&gt;site&lt;/i&gt; never looked back.&lt;br/&gt;&lt;br/&gt;Reddit the site (and now app) is such a fundamentally useful thing
-that it's almost unkillable. Which is why, despite a long stretch
-after Steve left when the management strategy ranged from benign
-neglect to spectacular blunders, traffic just kept growing. You
-can't do that with most companies. Most companies you take your eye
-off the ball for six months and you're in deep trouble. But Reddit
-was special, and when Steve came back in 2015, I knew the world was
-in for a surprise.&lt;br/&gt;&lt;br/&gt;People thought they had Reddit's number: one of the players in
-Silicon Valley, but not one of the big ones. But those who knew
-what had been going on behind the scenes knew there was more to the
-story than this. If Reddit could grow to the size it had with
-management that was harmless at best, what could it do if Steve
-came back? We now know the answer to that question. Or at least a
-lower bound on the answer. Steve is not out of ideas yet.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/font&gt;</content:encoded>
-      <guid isPermaLink="false">https://paulgraham.com//reddits.html</guid>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>

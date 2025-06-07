@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://enigma.github.io/pgrss/rss-2006-07.xml</id>
+  <title>Paul Graham's Essays</title>
+  <updated>2006-07-01T00:00:00+00:00</updated>
+  <link href="https://paulgraham.com/" rel="alternate"/>
+  <link href="https://enigma.github.io/pgrss/rss-2006-07.xml" rel="self" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2004-11.xml" rel="first" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2004-11.xml" rel="previous" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2008-05.xml" rel="next" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss.xml" rel="last" type="application/rss+xml"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Paul Graham's Essays</subtitle>
+  <entry>
+    <id>https://paulgraham.com//copy.html</id>
+    <title>Copy What You Like</title>
+    <updated>2025-06-07T16:00:42.725289+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;July 2006&lt;br/&gt;&lt;br/&gt;&lt;!-- &lt;table width=375 cellpadding=6 cellspacing=0&gt;
+&lt;tr&gt;&lt;td bgcolor=#ffffdd&gt;
+&lt;table width=100% cellpadding=0 cellspacing=0&gt;
+&lt;tr&gt;&lt;td bgcolor=#ffffdd&gt;&lt;font size=2&gt;
+"None ever wished it longer than it is."&lt;br /&gt;&lt;br /&gt;- Samuel Johnson on &lt;i&gt;Paradise Lost&lt;/i&gt;
+&lt;/font&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt; --&gt;
+When I was in high school I spent a lot of time imitating bad
+writers.  What we studied in English classes was mostly fiction,
+so I assumed that wa&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//copy.html"/>
+    <published>2006-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//island.html</id>
+    <title>The Island Test</title>
+    <updated>2025-06-07T16:00:42.724397+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;July 2006&lt;br/&gt;&lt;br/&gt;I've discovered a handy test for figuring out what you're addicted
+to.  Imagine you were going to spend the weekend at a friend's house
+on a little island off the coast of Maine.  There are no shops on
+the island and you won't be able to leave while you're there.  Also,
+you've never been to this house before, so you can't assume it will
+have more than any house might.&lt;br/&gt;&lt;br/&gt;What, besides clothes and toiletries, do you make a point of packing?
+T&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//island.html"/>
+    <published>2006-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//marginal.html</id>
+    <title>The Power of the Marginal</title>
+    <updated>2025-06-07T16:00:42.717583+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+June 2006&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from talks at Usenix 2006 and
+Railsconf 2006.)&lt;/i&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//marginal.html"/>
+    <published>2006-06-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//america.html</id>
+    <title>Why Startups Condense in America</title>
+    <updated>2025-06-07T16:00:42.712249+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2006&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a keynote at Xtech.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Startups happen in clusters.  There are a lot of them in Silicon
+Valley and Boston, and few in Chicago or Miami.  A country that
+wants startups will probably also have to reproduce whatever makes
+these clusters form.&lt;br/&gt;&lt;br/&gt;I've claimed that the &lt;a href="https://paulgraham.com/siliconvalley.html"&gt;recipe&lt;/a&gt; is a
+great university near a town smart
+people like.  If you set up those co&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//america.html"/>
+    <published>2006-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//siliconvalley.html</id>
+    <title>How to Be Silicon Valley</title>
+    <updated>2025-06-07T16:00:42.707683+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2006&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a keynote at Xtech.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Could you reproduce Silicon Valley elsewhere, or is there something
+unique about it?&lt;br/&gt;&lt;br/&gt;It wouldn't be surprising if it were hard to reproduce in other
+countries, because you couldn't reproduce it in most of the US
+either.  What does it take to make a silicon valley even here?&lt;br/&gt;&lt;br/&gt;What it takes is the right people.  If you could get the right ten
+thousand people to move fro&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//siliconvalley.html"/>
+    <published>2006-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//startuplessons.html</id>
+    <title>The Hardest Lessons for Startups to Learn</title>
+    <updated>2025-06-07T16:00:42.702138+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2006&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at the 2006 
+&lt;a href="http://startupschool.org"&gt;Startup School&lt;/a&gt;.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;The startups we've funded so far are pretty quick, but they seem
+quicker to learn some lessons than others.  I think it's because
+some things about startups are kind of counterintuitive.&lt;br/&gt;&lt;br/&gt;We've now 
+&lt;a href="http://ycombinator.com"&gt;invested&lt;/a&gt; 
+in enough companies that I've learned a trick
+for determining which points a&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//startuplessons.html"/>
+    <published>2006-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//randomness.html</id>
+    <title>See Randomness</title>
+    <updated>2025-06-07T16:00:42.701174+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2006, rev August 2009&lt;br/&gt;&lt;br/&gt;Plato quotes Socrates as saying "the unexamined life is not worth
+living."  Part of what he meant was that the proper role of humans is to
+think, just as the proper role of anteaters is to poke their noses
+into anthills.&lt;br/&gt;&lt;br/&gt;A lot of ancient philosophy had the quality — and I
+don't mean this in an insulting way — of the kind of conversations
+freshmen have late at night in common rooms:
+&lt;blockquote&gt;
+What is our purpose?  Well&lt;/blockquote&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//randomness.html"/>
+    <published>2006-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//softwarepatents.html</id>
+    <title>Are Software Patents Evil?</title>
+    <updated>2025-06-07T16:00:42.696742+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;!--&lt;table width=100% cellspacing=0&gt;
+&lt;tr&gt;&lt;td bgcolor=#ffac74&gt;&lt;img src="http://www.virtumundo.com/images/spacer.gif"
+height=15 width=1&gt;&lt;font size=2&gt;
+&lt;b&gt;April 29:&lt;/b&gt; Free one-day
+&lt;a href="http://startupschool.org"&gt;startup school&lt;/a&gt;
+for hackers.
+&lt;/font&gt;
+&lt;br&gt;&lt;img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1&gt;&lt;/td
+&gt;&lt;/tr&gt;
+&lt;/table&gt;
+--&gt;
+March 2006&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at Google.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;A few weeks ago I found to my sur&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//softwarepatents.html"/>
+    <published>2006-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//6631327.html</id>
+    <title>6,631,372</title>
+    <updated>2025-06-07T16:00:42.695806+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2006, rev August 2009&lt;br/&gt;&lt;br/&gt;A couple days ago I found to my surprise that I'd been granted a
+&lt;a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;amp;Sect2=HITOFF&amp;amp;d=PALL&amp;amp;p=1&amp;amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;amp;r=1&amp;amp;f=G&amp;amp;l=50&amp;amp;s1=6,631,372.PN.&amp;amp;OS=PN/6,631,372&amp;amp;RS=PN/6,631,372"&gt;patent&lt;/a&gt;.
+It issued in 2003, but no one told me.  I wouldn't know about it
+now except that a few months ago, while visiting Yahoo, I happened
+t&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//6631327.html"/>
+    <published>2006-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//whyyc.html</id>
+    <title>Why YC</title>
+    <updated>2025-06-07T16:00:42.694860+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2006, rev August 2009&lt;br/&gt;&lt;br/&gt;Yesterday one of the founders we funded asked me why we started 
+&lt;a href="http://ycombinator.com"&gt;Y
+Combinator&lt;/a&gt;.  Or more precisely, he asked if we'd started YC mainly
+for fun.&lt;br/&gt;&lt;br/&gt;Kind of, but not quite.  It is enormously fun to be able to work
+with Rtm and Trevor again.  I missed that after we sold Viaweb, and
+for all the years after I always had a background process running,
+looking for something we could do together. &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//whyyc.html"/>
+    <published>2006-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//love.html</id>
+    <title>How to Do What You Love</title>
+    <updated>2025-06-07T16:00:42.689659+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+January 2006&lt;br/&gt;&lt;br/&gt;To do something well you have to like it.   That idea is not exactly
+&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//love.html"/>
+    <published>2006-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//procrastination.html</id>
+    <title>Good and Bad Procrastination</title>
+    <updated>2025-06-07T16:00:42.687850+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2005&lt;br/&gt;&lt;br/&gt;The most impressive people I know are all terrible procrastinators.
+So could it be that procrastination isn't always bad?&lt;br/&gt;&lt;br/&gt;Most people who write about procrastination write about how to cure
+it.  But this is, strictly speaking, impossible.  There are an
+infinite number of things you could be doing.  No matter what you
+work on, you're not working on everything else.  So the question
+is not how to avoid procrastination, but how to procra&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//procrastination.html"/>
+    <published>2005-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//web20.html</id>
+    <title>Web 2.0</title>
+    <updated>2025-06-07T16:00:42.682327+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+November 2005&lt;br/&gt;&lt;br/&gt;Does "Web 2.0" mean anything?  Till recently I thought it didn't,
+bu&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//web20.html"/>
+    <published>2005-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//startupfunding.html</id>
+    <title>How to Fund a Startup</title>
+    <updated>2025-06-07T16:00:42.674011+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+November 2005&lt;br/&gt;&lt;br/&gt;&amp;lt;!-- &amp;lt;i&amp;gt;(This 
+article is meant to be a complete summary of funding &lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//startupfunding.html"/>
+    <published>2005-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//vcsqueeze.html</id>
+    <title>The Venture Capital Squeeze</title>
+    <updated>2025-06-07T16:00:42.672411+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2005&lt;br/&gt;&lt;br/&gt;In the next few years, venture capital funds will find themselves
+squeezed from four directions.  They're already stuck with a seller's
+market, because of the huge amounts they raised at the end of the
+Bubble and still haven't invested.  This by itself is not the end
+of the world.  In fact, it's just a more extreme version of the
+&lt;a href="http://www.archub.org/dilbertvc.gif"&gt;norm&lt;/a&gt;
+in the VC business: too much money chasing too few deals.&amp;lt;br&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//vcsqueeze.html"/>
+    <published>2005-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ideas.html</id>
+    <title>Ideas for Startups</title>
+    <updated>2025-06-07T16:00:42.665614+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by&#13;
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.&#13;
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&#13;
+October 2005&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at the 2005 &#13;
+&amp;lt;a href="http:&lt;/i&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ideas.html"/>
+    <published>2005-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//sfp.html</id>
+    <title>What I Did this Summer</title>
+    <updated>2025-06-07T16:00:42.663011+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;October 2005&lt;br/&gt;&lt;br/&gt;The first Summer Founders Program has just finished.  We were
+surprised how well it went.  Overall only about 10% of startups   
+succeed, but if I had to guess now, I'd predict three or four of  
+the eight startups we funded will make it.&lt;br/&gt;&lt;br/&gt;Of the startups that needed further funding, I believe all have
+either closed a round or are likely to soon.  Two have already
+turned down (lowball) acquisition offers.&lt;br/&gt;&lt;br/&gt;We would have been hap&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//sfp.html"/>
+    <published>2005-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//inequality.html</id>
+    <title>Inequality and Risk</title>
+    <updated>2025-06-07T16:00:42.659441+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2005&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at Defcon 2005.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Suppose you wanted to get rid of economic inequality.  There are
+two ways to do it: give money to the poor, or take it away from the 
+rich.  But they amount to the same thing, because if you want to
+give money to the poor, you have to get it from somewhere.  You
+can't get it from the poor, or they just end up where they started.
+You have to get it from the rich.&lt;br/&gt;&lt;br/&gt;There i&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//inequality.html"/>
+    <published>2005-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ladder.html</id>
+    <title>After the Ladder</title>
+    <updated>2025-06-07T16:00:42.658563+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2005&lt;br/&gt;&lt;br/&gt;Thirty years ago, one was supposed to work one's way up the corporate
+ladder.  That's less the rule now.  Our generation wants to get
+paid up front.  Instead of developing a product for some big company
+in the expectation of getting job security in return, we develop
+the product ourselves, in a startup, and sell it to the big company.
+At the very least we want options.&lt;br/&gt;&lt;br/&gt;Among other things, this shift has created the appearance of a rapid&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ladder.html"/>
+    <published>2005-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//opensource.html</id>
+    <title>What Business Can Learn from Open Source</title>
+    <updated>2025-06-07T16:00:42.654024+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2005&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at Oscon 2005.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Lately companies have been paying more attention to open source.
+Ten years ago there seemed a real danger Microsoft would extend its
+monopoly to servers.  It seems safe to say now that open source has
+prevented that.  A recent survey found 52% of companies are replacing
+Windows servers with Linux servers.
+&lt;font color="#777777"&gt;[&amp;lt;a href="https://paulgraham.com/opensource.html#f1n"&lt;/font&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//opensource.html"/>
+    <published>2005-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hiring.html</id>
+    <title>Hiring is Obsolete</title>
+    <updated>2025-06-07T16:00:42.648867+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+May 2005&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at the Berkeley CSUA.)&lt;/i&gt;&lt;br&gt;&amp;lt;br/&lt;/br&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hiring.html"/>
+    <published>2005-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//submarine.html</id>
+    <title>The Submarine</title>
+    <updated>2025-06-07T16:00:42.644575+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2005&lt;br/&gt;&lt;br/&gt;"Suits make a corporate comeback," says the &lt;a href="http://www.nytimes.com/2005/04/14/fashion/thursdaystyles/14peacock.html?ex=1271131200&amp;amp;en=e96f2670387e3636&amp;amp;ei=5090&amp;amp;partner=rssuserland"&gt;&lt;i&gt;New
+York Times&lt;/i&gt;&lt;/a&gt;.  Why does this sound familiar?  Maybe because
+the suit was also back in &lt;a href="http://www.cvbizlink.com/articles/2005/04/07/news/news/doc42406f05edf53293947237.prt"&gt;February&lt;/a&gt;,
+&amp;lt;!-- &amp;lt;a href="http://www.startribune.com/s&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//submarine.html"/>
+    <published>2005-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//bronze.html</id>
+    <title>Why Smart People Have Bad Ideas</title>
+    <updated>2025-06-07T16:00:42.639196+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+April 2005&lt;br/&gt;&lt;br/&gt;This summer, as an 
+experiment, some 
+friends and I are giving &amp;lt;a href=&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//bronze.html"/>
+    <published>2005-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//mac.html</id>
+    <title>Return of the Mac</title>
+    <updated>2025-06-07T16:00:42.637743+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2005&lt;br/&gt;&lt;br/&gt;All the best &lt;a href="https://paulgraham.com/gba.html"&gt;hackers&lt;/a&gt; 
+I know are gradually switching to Macs.  My
+friend Robert said his whole research group at MIT recently bought
+themselves Powerbooks.  These guys are not the graphic designers
+and grandmas who were buying Macs at Apple's low point in the
+mid 1990s.  They're about as hardcore OS hackers as you can get.&lt;br/&gt;&lt;br/&gt;The reason, of course, is OS X.  Powerbooks are beautifully designed
+a&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//mac.html"/>
+    <published>2005-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//writing44.html</id>
+    <title>Writing,  Briefly</title>
+    <updated>2025-06-07T16:00:42.637034+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2005&lt;br/&gt;&lt;br/&gt;&lt;!--&lt;i&gt;(Informal surveys of referring urls suggested demand for
+essays that were short and didn't mention Lisp.)&lt;/i&gt;
+--&gt;
+&lt;i&gt;(In the process
+of answering an email, I accidentally wrote a tiny essay about writing.
+I usually spend weeks on an essay.  This one took &lt;!--44--&gt; 67 minutes—23
+of writing, and &lt;!--21--&gt; 44 of rewriting.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;I think it's far more important to write well than most people
+realize.  Writing doesn't just communicate i&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//writing44.html"/>
+    <published>2005-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//college.html</id>
+    <title>Undergraduation</title>
+    <updated>2025-06-07T16:00:42.632941+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+&amp;lt;!--&amp;lt;table width=375 cellpadding=0 cellspacing=0&amp;gt;
+&lt;tr&gt;&lt;td bgcolor="#ffe722"&gt;&amp;lt;img src="http:/&lt;/td&gt;&lt;/tr&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//college.html"/>
+    <published>2005-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//venturecapital.html</id>
+    <title>A Unified Theory of VC Suckage</title>
+    <updated>2025-06-07T16:00:42.631349+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;March 2005&lt;br/&gt;&lt;br/&gt;A couple months ago I got an email from a recruiter asking if I was
+interested in being a "technologist in residence" at a new venture
+capital fund.  I think the idea was to play Karl Rove to the VCs'
+George Bush.&lt;br/&gt;&lt;br/&gt;I considered it for about four seconds.  Work for a VC fund?  Ick.&lt;br/&gt;&lt;br/&gt;One of my most vivid memories from our startup is going to visit
+Greylock, the famous Boston VCs. They were the most arrogant
+people I've met in my lif&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//venturecapital.html"/>
+    <published>2005-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//start.html</id>
+    <title>How to Start a Startup</title>
+    <updated>2025-06-07T16:00:42.624861+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+March 2005&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at the Harvard Computer
+Society.)&lt;/i&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//start.html"/>
+    <published>2005-03-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hs.html</id>
+    <title>What You'll Wish You'd Known</title>
+    <updated>2025-06-07T16:00:42.620931+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2005&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(I wrote this talk for a
+high school.  I never actually 
+gave it, because the school authorities vetoed the plan to invite me.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;When I said I was speaking at a high school, my friends were curious.
+What will you say to high school students?  So I asked them, what
+do you wish someone had told you in high school?  Their answers
+were remarkably similar.  So I'm going to tell you what we all wish
+someone had told us.&lt;br/&gt;&lt;br/&gt;I'll s&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hs.html"/>
+    <published>2005-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//usa.html</id>
+    <title>Made in USA</title>
+    <updated>2025-06-07T16:00:42.618505+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2004&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a new essay for the Japanese edition of 
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0596006624"&gt;Hackers 
+&amp;amp; Painters&lt;/a&gt;.
+It tries to explain why Americans make some things well 
+and others badly.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;A few years ago an Italian friend of mine travelled by train from
+Boston to Providence.  She had only been in America for a
+couple weeks and hadn't seen much of the country yet.  She arrived
+looking astonished&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//usa.html"/>
+    <published>2004-11-01T00:00:00+00:00</published>
+  </entry>
+</feed>
