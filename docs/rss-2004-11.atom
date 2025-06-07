@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://enigma.github.io/pgrss/rss-2004-11.xml</id>
+  <title>Paul Graham's Essays</title>
+  <updated>2004-11-01T00:00:00+00:00</updated>
+  <link href="https://paulgraham.com/" rel="alternate"/>
+  <link href="https://enigma.github.io/pgrss/rss-2004-11.xml" rel="self" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2006-08.xml" rel="next" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss.xml" rel="last" type="application/rss+xml"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Paul Graham's Essays</subtitle>
+  <entry>
+    <id>https://paulgraham.com//polls.html</id>
+    <title>Bradley's Ghost</title>
+    <updated>2025-06-07T14:20:42.303390+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2004&lt;br/&gt;&lt;br/&gt;&lt;!--&lt;i&gt;(I wrote this essay immediately after the election.
+But after writing it I buried it; I was so
+depressed about the election that I just didn't want to think
+about it anymore.
+I recently came across this essay again, and it
+strikes me as on the mark.)&lt;/i&gt;
+--&gt;
+A lot of people are writing now about 
+why Kerry lost.  Here I want to
+examine a more specific question: why were the exit polls so 
+wrong?&lt;br/&gt;&lt;br/&gt;In Ohio, which Kerry ultimately
+&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//polls.html"/>
+    <published>2004-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//charisma.html</id>
+    <title>It's Charisma, Stupid</title>
+    <updated>2025-06-07T14:20:42.301215+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;!-- &lt;i&gt;(This has been rewritten; the original version was wrong about
+the 1968 election.)&lt;/i&gt;
+--&gt;
+November 2004, corrected June 2006&lt;br/&gt;&lt;br/&gt;Occam's razor says we should prefer the simpler of two explanations.
+I begin by reminding readers of this principle because I'm about
+to propose a theory that will offend both liberals and conservatives.
+But Occam's razor means, in effect, that if you want to disagree
+with it, you have a hell of a coincidence to explain.&lt;br/&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//charisma.html"/>
+    <published>2004-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//usa.html</id>
+    <title>Made in USA</title>
+    <updated>2025-06-07T14:20:42.298845+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2004&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a new essay for the Japanese edition of 
+&lt;a href="http://www.amazon.com/exec/obidos/tg/detail/-/0596006624"&gt;Hackers 
+&amp;amp; Painters&lt;/a&gt;.
+It tries to explain why Americans make some things well 
+and others badly.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;A few years ago an Italian friend of mine travelled by train from
+Boston to Providence.  She had only been in America for a
+couple weeks and hadn't seen much of the country yet.  She arrived
+looking astonished&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//usa.html"/>
+    <published>2004-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//laundry.html</id>
+    <title>A Version 1.0</title>
+    <updated>2025-06-07T14:20:42.292738+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;October 2004&lt;br/&gt;&lt;br/&gt;&lt;!--At the end of each day I save a copy of whatever I'm working on.
+I thought it would be interesting to compare a finished
+essay with the first version to see how much of the original  
+text survives.
+--&gt;
+As E. B. White said, "good writing is rewriting."  I didn't
+realize this when I was in school.  In writing, as in math and 
+science, they only show you the finished product.
+You don't see all the false starts.  This gives students a
+misleadi&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//laundry.html"/>
+    <published>2004-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//essay.html</id>
+    <title>The Age of the Essay</title>
+    <updated>2025-06-07T14:20:42.288765+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2004&lt;br/&gt;&lt;br/&gt;Remember the essays you had to write in high school?
+Topic sentence, introductory paragraph,
+supporting paragraphs, conclusion.  The conclusion being,
+say, that Ahab in &lt;i&gt;Moby Dick&lt;/i&gt; was a Christ-like figure.&lt;br/&gt;&lt;br/&gt;Oy.  So I'm going to try to give the other side of the
+story: what an essay really is, and how you write one.
+Or at least, how I write one.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Mods&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;The most obvious difference between real essays and
+the&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//essay.html"/>
+    <published>2004-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//bubble.html</id>
+    <title>What the Bubble Got Right</title>
+    <updated>2025-06-07T14:20:42.285195+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2004&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from an invited talk at ICFP 2004.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;I had a front row seat for the Internet Bubble,
+because I worked at Yahoo during 1998 and 1999.  One day,
+when the stock was trading around $200, I sat down and calculated
+what I thought the price should be. The 
+answer I got was $12.  I went to
+the next cubicle and told my friend Trevor.  "Twelve!" he said.
+He tried to sound indignant, but he didn't quite manage it.  &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//bubble.html"/>
+    <published>2004-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//pypar.html</id>
+    <title>The Python Paradox</title>
+    <updated>2025-06-07T14:20:42.284248+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2004&lt;br/&gt;&lt;br/&gt;In a recent &lt;a href="https://paulgraham.com/gh.html"&gt;talk&lt;/a&gt; I said something that upset a lot of
+people: that you could get smarter programmers to work on
+a Python project than you could to work on a Java project.&lt;br/&gt;&lt;br/&gt;I didn't mean by this that Java programmers are dumb.  I
+meant that Python programmers are smart. It's a lot of
+work to learn a new programming language.  And people don't
+learn Python because it will get them a job; they le&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//pypar.html"/>
+    <published>2004-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//gh.html</id>
+    <title>Great Hackers</title>
+    <updated>2025-06-07T14:20:42.279753+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+July 2004&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a talk at Oscon 2004.)&lt;/i&gt;&lt;br&gt;&lt;br/&gt;&amp;lt;!-- &lt;/br&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//gh.html"/>
+    <published>2004-07-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//wealth.html</id>
+    <title>How to Make Wealth</title>
+    <updated>2025-06-07T14:20:42.271428+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+May 2004&lt;br/&gt;&lt;br/&gt;&lt;i&gt;
+(This essay was originally published in &amp;lt;a href="http://www.amazon.co&lt;/i&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//wealth.html"/>
+    <published>2004-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//gap.html</id>
+    <title>Mind the Gap</title>
+    <updated>2025-06-07T14:20:42.264527+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2004&lt;br/&gt;&lt;br/&gt;When people care enough about something to do it well, those who
+do it best tend to be far better than everyone else.  There's a
+huge gap between Leonardo and second-rate contemporaries like
+Borgognone.  You see the same gap between Raymond Chandler and the
+average writer of detective novels.  A top-ranked professional chess
+player could play ten thousand games against an ordinary club player
+without losing once.&lt;br/&gt;&lt;br/&gt;Like chess or painting or &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//gap.html"/>
+    <published>2004-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//gba.html</id>
+    <title>The Word "Hacker"</title>
+    <updated>2025-06-07T14:20:42.262724+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2004&lt;br/&gt;&lt;br/&gt;To the popular press, "hacker" means someone who breaks
+into computers.  Among programmers it means a good programmer.
+But the two meanings are connected.  To programmers,
+"hacker" connotes mastery in the most literal sense: someone
+who can make a computer do what he wants—whether the computer
+wants to or not.&lt;br/&gt;&lt;br/&gt;To add to the confusion, the noun "hack" also has two senses.  It can
+be either a compliment or an insult.  It's called a hack wh&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//gba.html"/>
+    <published>2004-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//say.html</id>
+    <title>What You Can't Say</title>
+    <updated>2025-06-07T14:20:42.258545+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2004&lt;br/&gt;&lt;br/&gt;&lt;!--&lt;i&gt;(This essay is about heresy: how to think forbidden thoughts,
+and what to do with them.  The latter was till recently something only
+a small elite had to think about.  Now we all have to, because
+the Web has made us all publishers.)&lt;/i&gt;--&gt;
+Have you ever seen an old photo of yourself and
+been embarrassed at the way you looked?   &lt;i&gt;Did we actually
+dress like that?&lt;/i&gt;  We did.  And we had no idea how
+silly we looked.
+It's the nature of fa&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//say.html"/>
+    <published>2004-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ffb.html</id>
+    <title>Filters that Fight Back</title>
+    <updated>2025-06-07T14:20:42.257274+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2003&lt;br/&gt;&lt;br/&gt;&lt;!-- &lt;i&gt;(Originally this essay began with a discussion of filtering.
+An expanded version of that discussion now exists on its own as
+&lt;a href="sofar.html"&gt;So Far, So Good&lt;/a&gt;.)&lt;/i&gt;
+--&gt;
+We may be able to improve the accuracy of Bayesian spam filters
+by having them follow links to see what's
+waiting at the other end.  Richard Jowsey of
+&lt;a href="http://death2spam.com"&gt;death2spam&lt;/a&gt; now does
+this in borderline cases, and reports that it works well.&amp;lt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ffb.html"/>
+    <published>2003-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//iflisp.html</id>
+    <title>If Lisp is So Great</title>
+    <updated>2025-06-07T14:20:42.256277+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2003&lt;br/&gt;&lt;br/&gt;If Lisp is so great, why don't more people use it?  I was    
+asked this question by a student in the audience at a 
+talk I gave recently.  Not for the first time, either.&lt;br/&gt;&lt;br/&gt;In languages, as in so many things, there's not much     
+correlation between popularity and quality.  Why does   
+John Grisham (&lt;i&gt;King of Torts&lt;/i&gt; sales rank, 44) outsell
+Jane Austen (&lt;i&gt;Pride and Prejudice&lt;/i&gt; sales rank, 6191)?
+Would even Grisham claim that it's bec&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//iflisp.html"/>
+    <published>2003-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hp.html</id>
+    <title>Hackers and Painters</title>
+    <updated>2025-06-07T14:20:42.250422+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2003&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a guest lecture at Harvard, which incorporated
+an earlier talk at Northeastern.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;When I finished grad school in computer science I went
+to art school to study painting.  A lot of people seemed surprised
+that someone interested in computers would also be interested in painting.
+They seemed to think that
+hacking and painting were very different kinds of work-- that
+hacking was cold, precise, and methodical,&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hp.html"/>
+    <published>2003-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//hundred.html</id>
+    <title>The Hundred-Year Language</title>
+    <updated>2025-06-07T14:20:42.246628+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2003&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This essay is derived from a keynote talk at PyCon 2003.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;It's hard to predict what
+life will be like in a hundred years.  There are only a few
+things we can say with certainty.  We know that everyone will
+drive flying cars,
+that zoning laws will be relaxed to allow buildings
+hundreds of stories tall, that it will be dark most of the
+time, and that women will all be trained in the martial arts.  
+Here I want to zoom in on one det&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//hundred.html"/>
+    <published>2003-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//nerds.html</id>
+    <title>Why Nerds are Unpopular</title>
+    <updated>2025-06-07T14:20:42.242269+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;February 2003&lt;br/&gt;&lt;br/&gt;When we were in junior high school, my friend Rich and I made a map
+of the school lunch tables according to popularity. This was easy
+to do, because kids only ate lunch with others of about the same
+popularity. We graded them from A to E. A tables were full of
+football players and cheerleaders and so on. E tables contained the
+kids with mild cases of Down's Syndrome, what in the language of
+the time we called "retards."&lt;br/&gt;&lt;br/&gt;We sat at a D &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//nerds.html"/>
+    <published>2003-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//desres.html</id>
+    <title>Design and Research</title>
+    <updated>2025-06-07T14:20:42.240226+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2003&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This article is derived from a keynote talk at the fall 2002 meeting
+of NEPLS.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;Visitors to this country are often surprised to find that
+Americans like to begin a conversation by asking "what do you do?"
+I've never liked this question.  I've rarely had a
+neat answer to it.  But I think I have finally solved the problem.
+Now, when someone asks me what I do, I look them straight
+in the eye and say "I'm designing a 
+&amp;lt;a href="http&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//desres.html"/>
+    <published>2003-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//better.html</id>
+    <title>Better Bayesian Filtering</title>
+    <updated>2025-06-07T14:20:42.236250+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2003&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This article was given as a talk at the 2003 Spam Conference.
+It describes the work I've done to improve the performance of
+the algorithm described in &lt;a href="https://paulgraham.com/spam.html"&gt;A Plan for Spam&lt;/a&gt;,
+and what I plan to do in the future.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;The first discovery I'd like to present here is an algorithm for
+lazy evaluation of research papers.  Just
+write whatever you want and don't cite any previous work, and
+indignant&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//better.html"/>
+    <published>2003-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//spam.html</id>
+    <title>A Plan for Spam</title>
+    <updated>2025-06-07T14:20:42.230764+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Like to build things?&lt;/b&gt; Try &lt;a href="http://news.ycombinator.com"&gt;Hacker
+News&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+August 2002&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This article describes the spam-filtering techniques
+used in the spamproof web-based ma&lt;/i&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//spam.html"/>
+    <published>2002-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//power.html</id>
+    <title>Succinctness is Power</title>
+    <updated>2025-06-07T14:20:42.227471+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2002&lt;br/&gt;&lt;br/&gt;&lt;table cellpadding="6" cellspacing="0" width="410"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ffffdd"&gt;
+&lt;table cellpadding="0" cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ffffdd"&gt;&lt;font size="2"&gt;
+"The quantity of meaning compressed into a small space by 
+algebraic signs, is another circumstance that facilitates 
+the reasonings we are accustomed to carry on by their aid."&lt;br/&gt;&lt;br/&gt;- Charles Babbage, quoted in Iverson's Turing Award Lecture
+&lt;/font&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&amp;lt;/td&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//power.html"/>
+    <published>2002-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//icad.html</id>
+    <title>Revenge of the Nerds</title>
+    <updated>2025-06-07T14:20:42.220346+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+May 2002&lt;br/&gt;&lt;br/&gt;&lt;table cellpadding="6" cellspacing="0" width="410"&gt;
+&lt;tr&gt;&amp;lt;td bgcolor="#fff&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//icad.html"/>
+    <published>2002-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//taste.html</id>
+    <title>Taste for Makers</title>
+    <updated>2025-06-07T14:20:42.214685+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;February 2002&lt;br/&gt;&lt;br/&gt;&lt;table cellpadding="6" cellspacing="0" width="500"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ffffdd"&gt;
+&lt;table cellpadding="0" cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ffffdd"&gt;&lt;font size="2"&gt;
+"...Copernicus'
+aesthetic objections to [equants] provided one essential
+motive for his rejection of the Ptolemaic system...."&lt;br/&gt;&lt;br/&gt;- Thomas Kuhn, &lt;i&gt;The Copernican Revolution&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;"All of us had been trained by Kelly Johnson and believed
+fanatically in his ins&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//taste.html"/>
+    <published>2002-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//diff.html</id>
+    <title>What Made Lisp Different</title>
+    <updated>2025-06-07T14:20:42.212838+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2001 (rev. May 2002)
+&lt;p align="justif"&gt;
+&lt;i&gt;(This article came about in response to some questions on
+the &lt;a href="http://ll1.mit.edu"&gt;LL1&lt;/a&gt; mailing list.  It is now
+incorporated in &lt;a href="https://paulgraham.com/icad.html"&gt;Revenge of the Nerds&lt;/a&gt;.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;When McCarthy designed Lisp in the late 1950s, it was
+a radical departure from existing languages,
+the most important of which was &lt;a href="https://paulgraham.com/history.html"&gt;Fortran&lt;/a&gt;.&lt;br/&gt;&amp;lt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//diff.html"/>
+    <published>2001-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//road.html</id>
+    <title>The Other Road Ahead</title>
+    <updated>2025-06-07T14:20:42.205380+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2001&lt;br/&gt;&lt;br/&gt;&lt;i&gt;
+(This article explains why much of the next generation of software
+may be server-based, what that will mean for programmers,
+and why this new kind of software is a great opportunity for startups.
+It's derived from a talk at BBN Labs.)
+&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;In the summer of 1995, my friend Robert Morris and I decided to
+start a startup.  The PR campaign leading up to Netscape's IPO was
+running full blast then, and there was a lot of talk in the pr&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//road.html"/>
+    <published>2001-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//popular.html</id>
+    <title>Being Popular</title>
+    <updated>2025-06-07T14:20:42.199686+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2001&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This article was written as a kind of business plan for a
+&lt;a href="https://paulgraham.com/arc.html"&gt;new language&lt;/a&gt;.
+So it is missing (because it takes for granted) the most important
+feature of a good programming language: very powerful abstractions.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;A friend of mine once told an eminent operating systems
+expert that he wanted to design a really good
+programming language.  The expert told him that it would be a
+waste of time, th&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//popular.html"/>
+    <published>2001-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//langdes.html</id>
+    <title>Five Questions about Language Design</title>
+    <updated>2025-06-07T14:20:42.195984+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2001
+&lt;p&gt;
+&lt;i&gt;(These are some notes I made
+for a panel discussion on programming language design
+at MIT on May 10, 2001.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;img border="0" height="18" hspace="0" src="https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-18.gif" vspace="0" width="159"/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. Programming Languages Are for People.&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;Programming languages
+are how people talk to computers.  The computer would be just as
+happy speaking a&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//langdes.html"/>
+    <published>2001-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//rootsoflisp.html</id>
+    <title>The Roots of Lisp</title>
+    <updated>2025-06-07T14:20:42.195037+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;May 2001
+&lt;p align="justif"&gt;
+&lt;i&gt;(I wrote this article to help myself understand exactly
+what McCarthy discovered.  You don't need to know this stuff
+to program in Lisp, but it should be helpful to 
+anyone who wants to
+understand the essence of Lisp  both in the sense of its
+origins and its semantic core.  The fact that it has such a core
+is one of Lisp's distinguishing features, and the reason why,
+unlike other languages, Lisp has dialects.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;In 1960, &amp;lt;a&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//rootsoflisp.html"/>
+    <published>2001-05-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//avg.html</id>
+    <title>Beating the Averages</title>
+    <updated>2025-06-07T14:20:42.191441+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;table cellspacing="0" width="100%"&gt;
+&lt;tr&gt;&lt;td bgcolor="#ff9922"&gt;&lt;img height="15" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;font size="2"&gt;
+&lt;b&gt;Want to start a startup?&lt;/b&gt;  Get funded by
+&lt;a href="http://ycombinator.com/apply.html"&gt;Y Combinator&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br/&gt;&lt;img height="5" src="http://www.virtumundo.com/images/spacer.gif" width="1"/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;
+April 2001, rev. April 2003&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This article is derived from a talk given at the 2&lt;/i&gt;&lt;/p&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//avg.html"/>
+    <published>2001-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//javacover.html</id>
+    <title>Java's Cover</title>
+    <updated>2025-06-07T14:20:42.189980+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2001&lt;br/&gt;&lt;br/&gt;This essay developed out of conversations I've had with
+several other programmers about why Java smelled suspicious.  It's not
+a critique of Java!  It is a case study of hacker's radar.&lt;br/&gt;&lt;br/&gt;Over time, hackers develop a nose for good (and bad) technology.
+I thought it might be interesting to try and write down what
+made Java seem suspect to me.&lt;br/&gt;&lt;br/&gt;Some people who've read this think it's an interesting attempt to write about
+something th&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//javacover.html"/>
+    <published>2001-04-01T00:00:00+00:00</published>
+  </entry>
+</feed>

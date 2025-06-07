@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://enigma.github.io/pgrss/rss-2020-01.xml</id>
+  <title>Paul Graham's Essays</title>
+  <updated>2020-01-01T00:00:00+00:00</updated>
+  <link href="https://paulgraham.com/" rel="alternate"/>
+  <link href="https://enigma.github.io/pgrss/rss-2020-01.xml" rel="self" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2004-11.xml" rel="first" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2014-10.xml" rel="previous" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss-2022-11.xml" rel="next" type="application/rss+xml"/>
+  <link href="https://enigma.github.io/pgrss/rss.xml" rel="last" type="application/rss+xml"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Paul Graham's Essays</subtitle>
+  <entry>
+    <id>https://paulgraham.com//noob.html</id>
+    <title>Being a Noob</title>
+    <updated>2025-06-07T14:20:42.758930+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2020&lt;br/&gt;&lt;br/&gt;When I was young, I thought old people had everything figured out.
+Now that I'm old, I know this isn't true.&lt;br/&gt;&lt;br/&gt;I constantly feel like a noob. It seems like I'm always talking to
+some startup working in a new field I know nothing about, or reading
+a book about a topic I don't understand well enough, or visiting some new
+country where I don't know how things work.&lt;br/&gt;&lt;br/&gt;It's not pleasant to feel like a noob. And the word "noob" is
+certa&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//noob.html"/>
+    <published>2020-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//lesson.html</id>
+    <title>The Lesson to Unlearn</title>
+    <updated>2025-06-07T14:20:42.755797+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2019&lt;br/&gt;&lt;br/&gt;
+The most damaging thing you learned in school wasn't something you
+learned in any specific class. It was learning to get good grades.&lt;br/&gt;&lt;br/&gt;When I was in college, a particularly earnest philosophy grad student
+once told me that he never cared what grade he got in a class, only
+what he learned in it. This stuck in my mind because it was the
+only time I ever heard anyone say such a thing.&lt;br/&gt;&lt;br/&gt;For me, as for most students, the measuremen&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//lesson.html"/>
+    <published>2019-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//kids.html</id>
+    <title>Having Kids</title>
+    <updated>2025-06-07T14:20:42.754298+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2019&lt;br/&gt;&lt;br/&gt;Before I had kids, I was afraid of having kids. Up to that point I
+felt about kids the way the young Augustine felt about living
+virtuously. I'd have been sad to think I'd never have children.
+But did I want them now? No.&lt;br/&gt;&lt;br/&gt;If I had kids, I'd become a parent, and parents, as I'd known since
+I was a kid, were uncool. They were dull and responsible and had
+no fun.  And while it's not surprising that kids would believe that,
+to be honest I&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//kids.html"/>
+    <published>2019-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//fp.html</id>
+    <title>Fashionable Problems</title>
+    <updated>2025-06-07T14:20:42.753688+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2019&lt;br/&gt;&lt;br/&gt;I've seen the same pattern in many different fields: even though
+lots of people have worked hard in the field, only a small fraction
+of the space of possibilities has been explored, because they've
+all worked on similar things.&lt;br/&gt;&lt;br/&gt;Even the smartest, most imaginative people are surprisingly
+conservative when deciding what to work on. People who would never
+dream of being fashionable in any other way get sucked into working
+on fashionable &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//fp.html"/>
+    <published>2019-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//mod.html</id>
+    <title>The Two Kinds of Moderate</title>
+    <updated>2025-06-07T14:20:42.752691+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2019&lt;br/&gt;&lt;br/&gt;There are two distinct ways to be politically moderate: on purpose
+and by accident. Intentional moderates are trimmers, deliberately
+choosing a position mid-way between the extremes of right and left.
+Accidental moderates end up in the middle, on average, because they
+make up their own minds about each question, and the far right and
+far left are roughly equally wrong.&lt;br/&gt;&lt;br/&gt;You can distinguish intentional from accidental moderates by the
+d&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//mod.html"/>
+    <published>2019-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//genius.html</id>
+    <title>The Bus Ticket Theory of Genius</title>
+    <updated>2025-06-07T14:20:42.750282+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2019&lt;br/&gt;&lt;br/&gt;Everyone knows that to do great work you need both natural ability
+and determination. But there's a third ingredient that's not as
+well understood: an obsessive interest in a particular topic.&lt;br/&gt;&lt;br/&gt;To explain this point I need to burn my reputation with some group
+of people, and I'm going to choose bus ticket collectors.  There
+are people who collect old bus tickets. Like many collectors, they
+have an obsessive interest in the minutiae of &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//genius.html"/>
+    <published>2019-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//nov.html</id>
+    <title>Novelty and Heresy</title>
+    <updated>2025-06-07T14:20:42.749452+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2019&lt;br/&gt;&lt;br/&gt;If you discover something new, there's a significant chance you'll be
+accused of some form of heresy.&lt;br/&gt;&lt;br/&gt;To discover new things, you have
+to work on ideas that are good but non-obvious; if an idea is
+obviously good, other people are probably already working on it.
+One common way for a good idea to be non-obvious is for it to be hidden in the
+shadow of some mistaken assumption that people are very attached to.
+But anything you discover fr&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//nov.html"/>
+    <published>2019-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//sun.html</id>
+    <title>General and Surprising</title>
+    <updated>2025-06-07T14:20:42.748655+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;September 2017&lt;br/&gt;&lt;br/&gt;The most valuable insights are both general and surprising. 
+F = ma for example. But general and surprising is a hard
+combination to achieve. That territory tends to be picked
+clean, precisely because those insights are so valuable.&lt;br/&gt;&lt;br/&gt;Ordinarily, the best that people can do is one without the
+other: either surprising without being general (e.g.
+gossip), or general without being surprising (e.g.
+platitudes).&lt;br/&gt;&lt;br/&gt;Where things get in&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//sun.html"/>
+    <published>2017-09-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//disc.html</id>
+    <title>The Risk of Discovery</title>
+    <updated>2025-06-07T14:20:42.748144+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2017&lt;br/&gt;&lt;br/&gt;Because biographies of famous scientists tend to 
+edit out their mistakes, we underestimate the 
+degree of risk they were willing to take.
+And because anything a famous scientist did that
+wasn't a mistake has probably now become the
+conventional wisdom, those choices don't
+seem risky either.&lt;br/&gt;&lt;br/&gt;Biographies of Newton, for example, understandably focus
+more on physics than alchemy or theology.
+The impression we get is that his unerring judg&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//disc.html"/>
+    <published>2017-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//pow.html</id>
+    <title>Charisma / Power</title>
+    <updated>2025-06-07T14:20:42.747722+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2017&lt;br/&gt;&lt;br/&gt;People who are powerful but uncharismatic will tend to be disliked.
+Their power makes them a target for criticism that they don't have
+the charisma to disarm. That was Hillary Clinton's problem. It also
+tends to be a problem for any CEO who is more of a builder than a
+schmoozer. And yet the builder-type CEO is (like Hillary) probably
+the best person for the job.&lt;br/&gt;&lt;br/&gt;I don't think there is any solution to this problem. It's human
+nature. Th&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//pow.html"/>
+    <published>2017-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//prop62.html</id>
+    <title>This Year We Can End the Death Penalty in California</title>
+    <updated>2025-06-07T14:20:42.747001+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2016&lt;br/&gt;&lt;br/&gt;If you're a California voter, there is an important proposition
+on your ballot this year: Proposition 62, which bans the death
+penalty.&lt;br/&gt;&lt;br/&gt;When I was younger I used to think the debate about the death
+penalty was about when it's ok to take a human life.  Is it ok
+to kill a killer?&lt;br/&gt;&lt;br/&gt;But that is not the issue here.&lt;br/&gt;&lt;br/&gt;The real world does not work like the version I was shown on TV growing up.  The police 
+often arrest the wro&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//prop62.html"/>
+    <published>2016-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//pgh.html</id>
+    <title>How to Make Pittsburgh a Startup Hub</title>
+    <updated>2025-06-07T14:20:42.745106+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;April 2016&lt;br/&gt;&lt;br/&gt;&lt;i&gt;(This is a talk I gave at an event called Opt412 in Pittsburgh.
+Much of it will apply to other towns.  But not all, because
+as I say in the talk, Pittsburgh has some important advantages over
+most would-be startup hubs.)&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;What would it take to make Pittsburgh into a startup hub, like
+Silicon Valley?  I understand Pittsburgh pretty well,
+because I grew up here, in Monroeville. And I understand Silicon
+Valley pretty well because that&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//pgh.html"/>
+    <published>2016-04-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//re.html</id>
+    <title>The Refragmentation</title>
+    <updated>2025-06-07T14:20:42.735941+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2016&lt;br/&gt;&lt;br/&gt;One advantage of being old is that you can see change happen in
+your lifetime.  A lot of the change I've seen is fragmentation.  US
+politics is much more polarized than it used to be.  Culturally we
+have ever less common ground. The creative class flocks to a handful
+of happy cities, abandoning the rest.  And increasing economic
+inequality means the spread between rich and poor is growing too.
+I'd like to propose a hypothesis: that all these tr&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//re.html"/>
+    <published>2016-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ineq.html</id>
+    <title>Economic Inequality</title>
+    <updated>2025-06-07T14:20:42.731163+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;&lt;!-- &lt;table width=100% cellspacing=0&gt;
+&lt;tr&gt;&lt;td bgcolor=#ffeeaa&gt;&lt;img src="http://www.virtumundo.com/images/spacer.gif"
+height=15 width=1&gt;&lt;font size=2&gt;
+&lt;xb&gt;There is also a&lt;/b&gt;
+&lt;a href="sim.html"&gt;&lt;u&gt;shorter version&lt;/u&gt;&lt;/a&gt;.
+&lt;/font&gt;
+&lt;br&gt;&lt;img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1&gt;&lt;/td
+&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt; --&gt;
+January 2016&lt;br/&gt;&lt;br/&gt;Since the 1970s, economic inequality in the US has increased
+dramatically. And in particular, the rich have gotten &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ineq.html"/>
+    <published>2016-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//vb.html</id>
+    <title>Life is Short</title>
+    <updated>2025-06-07T14:20:42.729311+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2016&lt;br/&gt;&lt;br/&gt;Life is short, as everyone knows. When I was a kid I used to wonder
+about this. Is life actually short, or are we really complaining
+about its finiteness?  Would we be just as likely to feel life was
+short if we lived 10 times as long?&lt;br/&gt;&lt;br/&gt;Since there didn't seem any way to answer this question, I stopped
+wondering about it.  Then I had kids.  That gave me a way to answer
+the question, and the answer is that life actually is short.&lt;br/&gt;&amp;lt;br&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//vb.html"/>
+    <published>2016-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//jessica.html</id>
+    <title>Jessica Livingston</title>
+    <updated>2025-06-07T14:20:42.727194+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2015&lt;br/&gt;&lt;br/&gt;A few months ago an article about Y Combinator said that early on
+it had been a "one-man show."  It's sadly common to read that sort
+of thing.  But the problem with that description is not just that
+it's unfair.  It's also misleading.  Much of what's most novel about
+YC is due to Jessica Livingston.  If you don't understand her, you
+don't understand YC.  So let me tell you a little about Jessica.&lt;br/&gt;&lt;br/&gt;YC had 4 founders.  Jessica and I deci&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//jessica.html"/>
+    <published>2015-11-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//aord.html</id>
+    <title>Default Alive or Default Dead?</title>
+    <updated>2025-06-07T14:20:42.725076+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;October 2015&lt;br/&gt;&lt;br/&gt;When I talk to a startup that's been operating for more than 8 or
+9 months, the first thing I want to know is almost always the same.
+Assuming their expenses remain constant and their revenue growth
+is what it has been over the last several months, do they make it to
+profitability on the money they have left?  Or to put it more
+dramatically, by default do they live or die?&lt;br/&gt;&lt;br/&gt;The startling thing is how often the founders themselves don't &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//aord.html"/>
+    <published>2015-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//talk.html</id>
+    <title>Write Like You Talk</title>
+    <updated>2025-06-07T14:20:42.723728+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;October 2015&lt;br/&gt;&lt;br/&gt;Here's a simple trick for getting more people to read what you
+write: write in spoken language.&lt;br/&gt;&lt;br/&gt;Something comes over most people when they start writing. They write
+in a different language than they'd use if they were talking to a
+friend. The sentence structure and even the words are different.
+No one uses "pen" as a verb in spoken English. You'd feel like an
+idiot using "pen" instead of "write" in a conversation with a friend.&lt;br/&gt;&amp;lt;br&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//talk.html"/>
+    <published>2015-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//bias.html</id>
+    <title>A Way to Detect Bias</title>
+    <updated>2025-06-07T14:20:42.722505+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;October 2015&lt;br/&gt;&lt;br/&gt;This will come as a surprise to a lot of people, but in some cases
+it's possible to detect bias in a selection process without knowing
+anything about the applicant pool.  Which is exciting because among
+other things it means third parties can use this technique to detect
+bias whether those doing the selecting want them to or not.&lt;br/&gt;&lt;br/&gt;You can use this technique whenever (a) you have at least
+a random sample of the applicants that were selec&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//bias.html"/>
+    <published>2015-10-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//name.html</id>
+    <title>Change Your Name</title>
+    <updated>2025-06-07T14:20:42.720923+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2015&lt;br/&gt;&lt;br/&gt;If you have a US startup called X and you don't have x.com, you
+should probably change your name.&lt;br/&gt;&lt;br/&gt;The reason is not just that people can't find you.  For companies
+with mobile apps, especially, having the right domain name is not
+as critical as it used to be for getting users.  The problem with
+not having the .com of your name is that it signals weakness.  Unless
+you're so big that your reputation precedes you, a marginal domain
+suggest&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//name.html"/>
+    <published>2015-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//safe.html</id>
+    <title>Why It's Safe for Founders to Be Nice</title>
+    <updated>2025-06-07T14:20:42.719378+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;August 2015&lt;br/&gt;&lt;br/&gt;I recently got an email from a founder that helped me understand
+something important: why it's safe for startup founders to be nice
+people.&lt;br/&gt;&lt;br/&gt;I grew up with a cartoon idea of a very successful businessman (in
+the cartoon it was always a man): a rapacious, cigar-smoking,
+table-thumping guy in his fifties who wins by exercising power, and
+isn't too fussy about how.  As I've written before, one of
+the things that has surprised me most about &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//safe.html"/>
+    <published>2015-08-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//altair.html</id>
+    <title>What Microsoft Is this the Altair Basic of?</title>
+    <updated>2025-06-07T14:20:42.718769+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;February 2015&lt;br/&gt;&lt;br/&gt;One of the most valuable exercises you can try if you want to
+understand startups is to look at the most successful companies and
+explain why they were not as lame as they seemed when they first
+launched.  Because they practically all seemed lame at first. Not
+just small, lame.  Not just the first step up a big mountain.  More
+like the first step into a swamp.&lt;br/&gt;&lt;br/&gt;A Basic interpreter for the Altair?  How could that ever grow into
+a giant &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//altair.html"/>
+    <published>2015-02-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//corpdev.html</id>
+    <title>Don't Talk to Corp Dev</title>
+    <updated>2025-06-07T14:20:42.716928+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2015&lt;br/&gt;&lt;br/&gt;Corporate Development, aka corp dev, is the group within companies
+that buys other companies. If you're talking to someone from corp
+dev, that's why, whether you realize it yet or not.&lt;br/&gt;&lt;br/&gt;It's usually a mistake to talk to corp dev unless (a) you want to
+sell your company right now and (b) you're sufficiently likely to
+get an offer at an acceptable price.  In practice that means startups
+should only talk to corp dev when they're either doi&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//corpdev.html"/>
+    <published>2015-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//work.html</id>
+    <title>What Doesn't Seem Like Work?</title>
+    <updated>2025-06-07T14:20:42.715714+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2015&lt;br/&gt;&lt;br/&gt;My father is a mathematician. For most of my childhood he worked
+for Westinghouse, modelling nuclear reactors.&lt;br/&gt;&lt;br/&gt;He was one of those lucky people who know early on what they want to
+do.  When you talk to him about his childhood, there's a clear
+watershed at about age 12, when he "got interested in maths."&lt;br/&gt;&lt;br/&gt;He
+grew up in the small Welsh seacoast town of &lt;a href="https://goo.gl/maps/rkzUm"&gt;Pwllheli&lt;/a&gt;.  As we retraced
+his walk to &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//work.html"/>
+    <published>2015-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ronco.html</id>
+    <title>The Ronco Principle</title>
+    <updated>2025-06-07T14:20:42.714332+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;January 2015&lt;br/&gt;&lt;br/&gt;No one, VC or angel, has invested in more of the top startups than
+Ron Conway.  He knows what happened in every deal in the Valley,
+half the time because he arranged it.&lt;br/&gt;&lt;br/&gt;And yet he's a super nice guy.  In fact, nice is not the word.
+Ronco is good. I know of zero instances in which he has behaved
+badly.  It's hard even to imagine.&lt;br/&gt;&lt;br/&gt;When I first came to Silicon Valley I thought "How lucky that someone
+so powerful is so benevolent&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ronco.html"/>
+    <published>2015-01-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//pinch.html</id>
+    <title>The Fatal Pinch</title>
+    <updated>2025-06-07T14:20:42.712204+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2014&lt;br/&gt;&lt;br/&gt;Many startups go through a point a few months before they die where
+although they have a significant amount of money in the bank, they're
+also losing a lot each month, and revenue growth is either nonexistent
+or mediocre.  The company has, say, 6 months of runway.  Or to put
+it more brutally, 6 months before they're out of business.  They
+expect to avoid that by raising more from investors.
+&lt;font color="#999999"&gt;[&amp;lt;a href="https://paulgraham.co&lt;/font&gt;&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//pinch.html"/>
+    <published>2014-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//know.html</id>
+    <title>How You Know</title>
+    <updated>2025-06-07T14:20:42.711365+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2014&lt;br/&gt;&lt;br/&gt;I've read Villehardouin's chronicle of the Fourth Crusade at least
+two times, maybe three.  And yet if I had to write down everything
+I remember from it, I doubt it would amount to much more than a
+page.  Multiply this times several hundred, and I get an uneasy
+feeling when I look at my bookshelves. What use is it to read all
+these books if I remember so little from them?&lt;br/&gt;&lt;br/&gt;A few months ago, as I was reading Constance Reid's excellent
+b&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//know.html"/>
+    <published>2014-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//ecw.html</id>
+    <title>How to Be an Expert in a Changing World</title>
+    <updated>2025-06-07T14:20:42.709611+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2014&lt;br/&gt;&lt;br/&gt;If the world were static, we could have monotonically increasing
+confidence in our beliefs.  The more (and more varied) experience
+a belief survived, the less likely it would be false.  Most people
+implicitly believe something like this about their opinions.  And
+they're justified in doing so with opinions about things that don't
+change much, like human nature.  But you can't trust your opinions
+in the same way about things that change, which &lt;/font&gt;</content>
+    <link href="https://paulgraham.com//ecw.html"/>
+    <published>2014-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//95.html</id>
+    <title>Let the Other 95% of Great Programmers In</title>
+    <updated>2025-06-07T14:20:42.708048+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;December 2014&lt;br/&gt;&lt;br/&gt;American technology companies want the government to make immigration
+easier because they say they can't find enough programmers in the
+US.  Anti-immigration people say that instead of letting foreigners
+take these jobs, we should train more Americans to be programmers.
+Who's right?&lt;br/&gt;&lt;br/&gt;The technology companies are right. What the anti-immigration people
+don't understand is that there is a huge variation in ability between
+competent progr&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//95.html"/>
+    <published>2014-12-01T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://paulgraham.com//mean.html</id>
+    <title>Mean People Fail</title>
+    <updated>2025-06-07T14:20:42.705766+00:00</updated>
+    <content>&lt;font face="verdana" size="2"&gt;November 2014&lt;br/&gt;&lt;br/&gt;It struck me recently how few of the most successful people I know
+are mean.  There are exceptions, but remarkably few.&lt;br/&gt;&lt;br/&gt;Meanness isn't rare.  In fact, one of the things the internet has
+shown us is how mean people can be.  A few decades ago, only famous
+people and professional writers got to publish their opinions.  Now
+everyone can, and we can all see the long tail of
+meanness that had previously been hidden.&lt;br/&gt;&lt;br/&gt;And yet while t&lt;/font&gt;</content>
+    <link href="https://paulgraham.com//mean.html"/>
+    <published>2014-11-01T00:00:00+00:00</published>
+  </entry>
+</feed>
