@@ -149,7 +149,7 @@ def articles():
 def generate_paged_feeds(page_size=30):
     """Generate paginated RSS feeds with stable date-based names following RFC 5005"""
     # Get all articles sorted from oldest to newest
-    all_articles = sorted(list(articles()), key=lambda a: a.date)
+    all_articles = list(articles())[::-1]
 
     BASE_URL = "https://paulgraham.com/"
     FEED_BASE_URL = "https://enigma.github.io/pgrss/"
